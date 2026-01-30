@@ -1,0 +1,654 @@
+Restaurant,Cuisine,Neighborhood,Address,Latitude,Longitude
+Gaia,Mediterranean,"Herald Square, New York, NY","42 W 35th St, New York, NY 10001, USA",40.74976120000000,-73.9860805
+Tarallucci e Vino - Upper West Side,Italian,"Upper West Side, New York, NY","475 Columbus Ave, New York, NY 10024, USA",40.784365,-73.97349
+Prohibition,American (New),"Upper West Side, New York, NY","503 Columbus Ave, New York, NY 10024, USA",40.7852222,-73.9727293
+Jacob's Pickles,Soul Food / Southern,"Upper West Side, New York, NY","680 Columbus Ave, New York, NY 10025, USA",40.7911551,-73.9690457
+Hasaki,Japanese / Sushi,"East Village, New York, NY","210 E 9th St, New York, NY 10003, USA",40.729689,-73.98882930000000
+Empellón,Mexican,"Midtown East, New York, NY","510 Madison Ave, New York, NY 10022, USA",40.7597318,-73.9746715
+Michael's,American (New),"Midtown West, New York, NY","24 W 55th St, New York, NY 10019, USA",40.7620797,-73.97644380000000
+Qanoon,Middle Eastern,"Chelsea, New York, NY","180 9th Ave, New York, NY 10011, USA",40.7452323,-74.00199050000000
+Hav & Mar,Seafood,"Chelsea, New York, NY","245 11th Ave, New York, NY 10001, USA",40.7509642,-74.005733
+The Sea Fire Grill,Seafood,"Midtown East, New York, NY","158 E 48th St Between 3rd and, The Buchanan, Lexington Ave, New York, NY 10017, USA",40.7544393,-73.9723135
+Catria Cucina and Bar,Italian,"Hudson Yards, New York, NY","461 W 34th St. Frnt 1, New York, NY 10001, USA",40.754585,-73.998721
+Tinto Tapas Restaurant & Wine Bar,Spanish,"Washington Heights, New York, NY","209 Pinehurst Ave, New York, NY 10033, USA",40.8550871,-73.9377887
+Off the Hook Raw Bar & Grill,Seafood,"Astoria, New York, NY","28-08 34th St, Astoria, NY 11103, USA",40.7671634,-73.9180743
+Little Chef Little Cafe,Filipino,"Long Island City, New York, NY","5-43 48th Ave, Long Island City, NY 11101, USA",40.7444091,-73.9542191
+T Bar,American (New),"Upper East Side, New York, NY","116 E 60th St, New York, NY 10022, USA",40.763048,-73.96870920000000
+Lure Fishbar,Seafood,"Soho, New York, NY","142 Mercer St, New York, NY 10012, USA",40.724703,-73.9983278
+Frankie & Johnnie’s Steakhouse,Steakhouse,"Times Square/Theatre District, New York, NY","320 W 46th St, New York, NY 10036, USA",40.7599917,-73.9889712
+Tanoreen,Middle Eastern,"Bay Ridge, New York, NY","7523 3rd Ave, Brooklyn, NY 11209, USA",40.63079160000000,-74.02778650000000
+Aromi,Italian,"Carroll Gardens, New York, NY","552 Court St, Brooklyn, NY 11231, USA",40.6750189,-73.9996717
+La Marchande,French,"Lower Manhattan, New York, NY","88 Wall St, New York, NY 10005, USA",40.7056275,-74.0076321
+Beauty & Essex,American (New),"Lower East Side, New York, NY","146 Essex St, New York, NY 10002, USA",40.7204209,-73.9868826
+Haven Rooftop,American (New),"Times Square/Theatre District, New York, NY","132 W 47th St, New York, NY 10036, USA",40.7584057,-73.9833062
+Zero Otto Nove - Flatiron,Italian,"Flatiron District, New York, NY","15 W 21st St, New York, NY 10010, USA",40.7408896,-73.9916077
+Morton's The Steakhouse—World Trade Center,Steakhouse,"Lower Manhattan, New York, NY","136 Washington St, New York, NY 10006, USA",40.7097005,-74.0139538
+Bourbon Steak New York,Steakhouse,"Midtown West, New York, NY","160 Central Park S Suite 1101-62, New York, NY 10019, USA",40.7660208,-73.97864920000000
+Tarallucci e Vino - Union Square,Italian,"Union Square, New York, NY","15 E 18th St, New York, NY 10003, USA",40.7382123,-73.9906233
+El Coco - Chelsea,Mexican,"Chelsea, New York, NY","202 8th Ave, New York, NY 10011, USA",40.7435248,-73.9994683
+Nick's Lobster House,Seafood,"Mill Basin, New York, NY","2777 Flatbush Ave, Brooklyn, NY 11234, USA",40.6036058,-73.9151773
+Metropolis,American (New),"Lower Manhattan, New York, NY","Located in, Performing Arts Center, 251 Fulton St, New York, NY 10007, USA",40.7126623,-74.0121097
+The Ivory Peacock,Gastropub,"Flatiron District, New York, NY","38 W 26th St, New York, NY 10010, USA",40.7442721,-73.9907621
+The Fulton,Seafood,"The Seaport, New York, NY","Northeast corner of Pier 17, 89 South St, New York, NY 10038, USA",40.705573,-74.00145670000000
+Malii Gramercy,Thai,"Gramercy, New York, NY","391 2nd Ave, New York, NY 10010, USA",40.7377049,-73.9813506
+Bixi,Asian Fusion,"Harlem, New York, NY","2164 Frederick Douglass Blvd, New York, NY 10026, USA",40.8048198,-73.9547643
+Morandi,Italian,"West Village, New York, NY","211 Waverly Pl, New York, NY 10014, USA",40.7353245,-74.00143350000000
+Carlotto,Italian,"Gramercy, New York, NY","100 E 19th St, New York, NY 10003, USA",40.7374367,-73.98764920000000
+Il Nonno,Italian,"Astoria, New York, NY","25-17 Astoria Blvd, Astoria, NY 11102, USA",40.7713439,-73.922144
+Atrio Wine Bar & Restaurant,American (New),"Battery Park City, New York, NY","102 N End Ave, New York, NY 10282, USA",40.7150869,-74.0150476
+A Pasta Bar,Italian,"Soho, New York, NY","330 W Broadway, New York, NY 10013, USA",40.7222947,-74.0040089
+Maison Pickle,American (Traditional),"Upper West Side, New York, NY","2315 Broadway, New York, NY 10024, USA",40.7870473,-73.9781361
+Aqua Boil,Seafood,"Hells Kitchen, New York, NY","750 9th Ave, New York, NY 10019, USA",40.7637215,-73.98840300000000
+Oceana,Seafood,"Midtown West, New York, NY","120 W 49th St, New York, NY 10020, USA",40.7597641,-73.9823074
+Point Seven,Seafood,"Midtown East, New York, NY","200 Park Ave, New York, NY 10166, USA",40.7536857,-73.9768917
+The Terrace and Outdoor Gardens,American (New),"Times Square/Theatre District, New York, NY","701 7th Ave 9th floor, New York, NY 10036, USA",40.759149,-73.98416400000000
+Godunk Thai Street Food,Thai,"Noho, New York, NY","332 Bowery, New York, NY 10012, USA",40.7259855,-73.9923319
+Nizza,Italian,"Hells Kitchen, New York, NY","630 9th Ave, New York, NY 10036, USA",40.759987,-73.9912338
+The Wolfe,American (New),"Upper West Side, New York, NY","425 Amsterdam Ave, New York, NY 10024, USA",40.7839494,-73.9773996
+Verde on Smith,Italian,"Cobble Hill, New York, NY","216 Smith St, Brooklyn, NY 11201, USA",40.6844516,-73.99224750000000
+Pera Mediterranean Brasserie,Mediterranean,"Murray Hill, New York, NY","303 Madison Ave, New York, NY 10017, USA",40.75236840000000,-73.9792894
+Estiatorio Milos,Seafood,"Midtown West, New York, NY","125 W 55th St, New York, NY 10019, USA",40.7637445,-73.9788358
+Champers Social Club,French,"Soho, New York, NY","39 1/2 Crosby St, New York, NY 10012, USA",40.7215357,-73.9987798
+Greywind,American (New),"Hudson Yards, New York, NY","451 10th Ave, New York, NY 10018, USA",40.7554921,-73.9987254
+Barano,Italian,"Williamsburg, New York, NY","26 Broadway, Brooklyn, NY 11249, USA",40.7103974,-73.9679658
+Tuome,American (New),"East Village, New York, NY","536 E 5th St, New York, NY 10009, USA",40.7240318,-73.9829146
+Frenchette,French,"Tribeca, New York, NY","241 W Broadway, New York, NY 10013, USA",40.7196146,-74.0057057
+Mr Chow New York - Tribeca,Chinese,"Tribeca, New York, NY","121 Hudson St, New York, NY 10013, USA",40.7201607,-74.0089531
+Strip House Midtown,Steakhouse,"Midtown West, New York, NY","15 W 44th St, New York, NY 10036, USA",40.755344,-73.9806613
+Taste of India II,Indian,"New Dorp, New York, NY","287 New Dorp Ln, Staten Island, NY 10306, USA",40.572236,-74.11264060000000
+Pinky Swear,American (New),"Lower East Side, New York, NY","171A Chrystie St, New York, NY 10002, USA",40.7208685,-73.9927592
+Sotto la Luna,Italian,"Astoria, New York, NY","34-39 31st St, Astoria, NY 11106, USA",40.7583874,-73.9279839
+Ma•dé,Asian Fusion,"Nolita, New York, NY","22 Spring St Apartment 12, New York, NY 10012, USA",40.7213883,-73.9951754
+Lele's Roman,Italian,"Boerum Hill, New York, NY","252 Schermerhorn St, Brooklyn, NY 11217, USA",40.6878762,-73.9838418
+Café Boulud,French,"Upper East Side, New York, NY","100 E 63rd St, New York, NY 10065, USA",40.7650598,-73.96755020000000
+Calvert's,American (New),"Midtown West, New York, NY","600 W 57th St, New York, NY 10019, USA",40.7703207,-73.9918385
+Salt + Charcoal,Steakhouse,"Williamsburg, New York, NY","171 Grand St, Brooklyn, NY 11249, USA",40.7147592,-73.9612338
+Gaonnuri,Korean,"Koreatown, New York, NY","32ND STREET ENTRANCE 1250, Broadway 39th Foor, New York, NY 10001, USA",40.7476873,-73.9878772
+Meet the Meat,Steakhouse,"Astoria, New York, NY","23-92 21st St, Astoria, NY 11105, USA",40.77703260000000,-73.9214057
+Felice 83,Italian,"Upper East Side, New York, NY","1593 1st Ave, New York, NY 10028, USA",40.7749003,-73.9510928
+Sushi Ann,Japanese / Sushi,"Midtown East, New York, NY","38 E 51st St, New York, NY 10022, USA",40.758056,-73.9742182
+Petite Boucherie,French,"West Village, New York, NY","First Floor, 14 Christopher St, New York, NY 10014, USA",40.7338319,-74.0004287
+Chez Josephine,French,"Hells Kitchen, New York, NY","414 W 42nd St, New York, NY 10036, USA",40.7585368,-73.9935431
+Dos Caminos Meatpacking District,Mexican,"Meatpacking District, New York, NY","675 Hudson St, New York, NY 10014, USA",40.7403525,-74.0054512
+Empire Steak House - Midtown West,Steakhouse,"Midtown West, New York, NY","233 W 49th St, New York, NY 10019, USA",40.76143770000000,-73.9855281
+Del Friscos Double Eagle Steakhouse New York,Steakhouse,"Midtown West, New York, NY","1221 Ave of the Americas, New York, NY 10020, USA",40.7594274,-73.9822296
+Jue Lan Club,Chinese,"Flatiron District, New York, NY","49 W 20th St, New York, NY 10011, USA",40.7409461,-73.9935311
+Limani,Mediterranean,"Midtown West, New York, NY","45 Rockefeller Plaza, New York, NY 10111, USA",40.7587402,-73.9786735
+Antica Pesa,Italian,"Williamsburg, New York, NY","115 Berry St, Brooklyn, NY 11249, USA",40.7188157,-73.958625
+Crown Shy,American (New),"Lower Manhattan, New York, NY","70 Pine St Ground Floor, New York, NY 10005, USA",40.7065047,-74.00777150000000
+The Parlour Room,American (New),"Herald Square, New York, NY","70 W 36th St. Front 1b, New York, NY 10018, USA",40.7506112,-73.9862911
+La Contenta Oeste,Mexican,"West Village, New York, NY","78 W 11th St, New York, NY 10011, USA",40.73514310000000,-73.9980504
+Passerine,Indian,"Flatiron District, New York, NY","36 E 20th St, New York, NY 10003, USA",40.7385115,-73.988664
+Barawine,French,"Harlem, New York, NY","200 Malcolm X Blvd, New York, NY 10027, USA",40.8045614,-73.947394
+Miriam Brooklyn,Mediterranean,"Park Slope, New York, NY","79 5th Ave, Brooklyn, NY 11217, USA",40.680148,-73.97770490000000
+David Burke Tavern,American (New),"Upper East Side, New York, NY","135 E 62nd St, New York, NY 10065, USA",40.76443770000000,-73.967102
+Manuela,American (New),"Soho, New York, NY","130 Prince St, New York, NY 10012, USA",40.7253651,-74.0005917
+Tavern on the Green,American (New),"Central Park, New York, NY","Central Park, W 67th St, New York, NY 10023, USA",40.7736665,-73.9778422
+Sweet Catch,Seafood,"Prospect Lefferts Gardens, New York, NY","1222 Nostrand Ave, Brooklyn, NY 11225, USA",40.6573796,-73.9505199
+Sereneco,American (New),"Greenpoint, New York, NY","113 Franklin St, Brooklyn, NY 11222, USA",40.7301625,-73.9579347
+Glass House Tavern,American (New),"Times Square/Theatre District, New York, NY","252 W 47th St #14, New York, NY 10036, USA",40.7598542,-73.98670250000000
+Tasca NYC,Latin American,"Upper West Side, New York, NY","505 Columbus Ave, New York, NY 10024, USA",40.7853151,-73.9727841
+Becco,Italian,"Times Square/Theatre District, New York, NY","355 W 46th St, New York, NY 10036, USA",40.7607729,-73.9898448
+Rowland's Bar & Grill,Gastropub,"Herald Square, New York, NY","151 W 34th St., New York, NY 10001, USA",40.7508631,-73.98906340000000
+Kashkaval Garden,Mediterranean,"Hells Kitchen, New York, NY","852 9th Ave, New York, NY 10019, USA",40.7667608,-73.9861939
+Socarrat Paella Bar - Nolita,Spanish,"Nolita, New York, NY","284 Mulberry St, New York, NY 10012, USA",40.72445750000000,-73.9949785
+Tucci,Italian,"Noho, New York, NY","643 Broadway, New York, NY 10012, USA",40.7267232,-73.99588590000000
+Le Rock,French,"Midtown West, New York, NY","45 Rockefeller Plaza, New York, NY 10111, USA",40.7587402,-73.9786735
+Leuca,Italian,"Williamsburg, New York, NY","111 N 12th St, Brooklyn, NY 11249, USA",40.7228468,-73.9578689
+City Winery,American (New),"Chelsea, New York, NY","25 11th Ave, New York, NY 10011, USA",40.74294100000000,-74.0091145
+Hudson VU,American (New),"Hells Kitchen, New York, NY","653 11th Ave, New York, NY 10036, USA",40.7645715,-73.99598400000000
+L'Express,French,"Gramercy, New York, NY","249 Park Ave S, New York, NY 10003, USA",40.7381523,-73.987657
+Filé Gumbo Bar,Cajun/Creole,"Tribeca, New York, NY","275 Church St, New York, NY 10013, USA",40.7184878,-74.0048194
+5 Napkin Burger - Hell's Kitchen,American (Traditional),"Hells Kitchen, New York, NY","630 9th Ave, New York, NY 10036, USA",40.759987,-73.9912338
+Mesiba,Mediterranean,"Williamsburg, New York, NY","353 Bedford Ave, Brooklyn, NY 11211, USA",40.7116901,-73.9628749
+Wagamama - Midtown,Asian Fusion,"Midtown West, New York, NY","100 W 55th St, New York, NY 10019, USA",40.7631438,-73.9788554
+Docks Oyster Bar,Seafood,"Midtown East, New York, NY","633 3rd Ave, New York, NY 10017, USA",40.7496951,-73.9748286
+Socarrat Paella Bar - Chelsea,Spanish,"Chelsea, New York, NY","259 W 19th St, New York, NY 10011, USA",40.7426877,-73.9995394
+Cosme,Mexican,"Flatiron District, New York, NY","35 E 21st St, New York, NY 10010, USA",40.7395952,-73.98835640000000
+Sinigual,Mexican,"Midtown East, New York, NY","640 3rd Ave, Manhattan, NY 10017, USA",40.7503189,-73.97505030000000
+Hupo,Chinese,"Long Island City, New York, NY","10-07 50th Ave, Long Island City, NY 11101, USA",40.7428388,-73.9536004
+Club A Steakhouse,Steakhouse,"Midtown East, New York, NY","240 E 58th St, New York, NY 10022, USA",40.7600574,-73.9655842
+Mishik,Japanese / Sushi,"Hudson Square, New York, NY","259A Hudson St, New York, NY 10013, USA",40.7249077,-74.0079398
+Treadwell Park - Upper East Side,American (Traditional),"Upper East Side, New York, NY","1125 1st Ave, New York, NY 10065, USA",40.7614741,-73.9611074
+Rynn Thai Restaurant & Bar,Thai,"East Village, New York, NY","309 E 5th St, New York, NY 10003, USA",40.7268045,-73.9882662
+Bananas,American (New),"East Village, New York, NY","174 1st Ave, New York, NY 10009, USA",40.7290328,-73.98391510000000
+Berimbau - Midtown,Brazilian,"Herald Square, New York, NY","3 W 36th St., New York, NY 10018, USA",40.7501458,-73.9841391
+Le Rivage,French,"Times Square/Theatre District, New York, NY","340 W 46th St, New York, NY 10036, USA",40.7602732,-73.9895342
+Plado Tasting Bar,Mediterranean,"East Village, New York, NY","192 E 2nd St, New York, NY 10009, USA",40.7225464,-73.9838548
+Mito - Bayside,Asian Fusion,"Bayside, New York, NY","210-35 26th Ave, Bayside, NY 11360, USA",40.778466,-73.77895100000000
+Cull & Pistol Oyster Bar,Seafood,"Chelsea, New York, NY","75 9th Ave, New York, NY 10011, USA",40.7424509,-74.0059581
+State Grill and Bar,American (Traditional),"Herald Square, New York, NY","21 W 33rd St, New York, NY 10118, USA",40.7485505,-73.9859262
+Tarallucci e Vino - NoMad,Italian,"Nomad, New York, NY","44 E 28th St, New York, NY 10016, USA",40.7434168,-73.9847247
+Il Fiorista,Mediterranean,"Nomad, New York, NY","17 W 26th St, New York, NY 10010, USA",40.7441519,-73.9895739
+Perry Street,American (New),"West Village, New York, NY","Perry St, New York, NY 10014, USA",40.7352271,-74.0055045
+Fogo de Chão Brazilian Steakhouse,Brazilian,"Midtown West, New York, NY","40 W 53rd St, New York, NY 10019, USA",40.7610964,-73.977761
+Tao Uptown,Pan-Asian,"Midtown East, New York, NY","42 E 58th St, New York, NY 10022, USA",40.7626119,-73.97148710000000
+Barbounia,Mediterranean,"Gramercy, New York, NY","250 Park Ave S, New York, NY 10003, USA",40.7382621,-73.98821990000000
+Recette,French,"Williamsburg, New York, NY","103 Havemeyer St, Brooklyn, NY 11211, USA",40.7132215,-73.95632550000000
+Dos Caminos Times Square,Mexican,"Times Square/Theatre District, New York, NY","1567 Broadway, New York, NY 10036, USA",40.7595007,-73.985587
+Playa Betty's,Mexican,"Upper West Side, New York, NY","320 Amsterdam Ave, New York, NY 10023, USA",40.7808703,-73.98035350000000
+Trapizzino,Italian,"Lower East Side, New York, NY","144 Orchard St, New York, NY 10002, USA",40.7203593,-73.98895210000000
+Oceans,Seafood,"Gramercy, New York, NY","233 Park Ave S, New York, NY 10003, USA",40.7374674,-73.9879206
+Reyna,Mediterranean,"Union Square, New York, NY","11 E 13th St, New York, NY 10003, USA",40.735079,-73.9931549
+Blackbarn,American (New),"Nomad, New York, NY","19 E 26th St, New York, NY 10010, USA",40.743105,-73.987104
+Le Pavillon,French,"Midtown East, New York, NY","One Vanderbilt Ave, New York, NY 10017, USA",40.7540435,-73.9771971
+La Voglia,Italian,"Upper East Side, New York, NY","1645 3rd Ave, New York, NY 10128, USA",40.7826745,-73.9508638
+Pasta Louise,Italian,"Park Slope, New York, NY","1114 8th Ave, Brooklyn, NY 11215, USA",40.6642062,-73.9807532
+Iris,Greek,"Midtown West, New York, NY","1740 Broadway, New York, NY 10019, USA",40.7651145,-73.9814962
+RA Sushi Bar Restaurant – Times Square,Japanese / Sushi,"Times Square/Theatre District, New York, NY","229 W 43rd St, New York, NY 10036, USA",40.7575156,-73.9876312
+No Work Allowed,Asian Fusion,"Midtown East, New York, NY","235 E 53rd St Basement, New York, NY 10022, USA",40.7572771,-73.9679771
+Brooklyn Chop House - Times Square,Asian Fusion,"Times Square/Theatre District, New York, NY","253 W 47th St, New York, NY 10036, USA",40.7602153,-73.98638680000000
+Dinosaur Bar-B-Que - Harlem,Barbecue,"Harlem, New York, NY","700 W 125th St, New York, NY 10027, USA",40.8180319,-73.9609174
+Lido,Italian,"Harlem, New York, NY","2168 Frederick Douglass Blvd, New York, NY 10026, USA",40.8048926,-73.9546798
+Red Rooster Harlem,Soul Food / Southern,"Harlem, New York, NY","310 Lenox Ave, New York, NY 10027, USA",40.8081052,-73.9447692
+ABC Kitchen,American (New),"Union Square, New York, NY","35 E 18th St, New York, NY 10003, USA",40.7379036,-73.98950530000000
+The Library at The Public,American (New),"Noho, New York, NY","425 Lafayette St, New York, NY 10003, USA",40.7289857,-73.9917342
+Neir's Tavern,American (Traditional),"Woodhaven, New York, NY","87-48 78th St, Woodhaven, NY 11421, USA",40.6898228,-73.8635967
+Tha Phraya,Thai,"Upper East Side, New York, NY","1553 2nd Ave, New York, NY 10028, USA",40.7745319,-73.954509
+La Grande Boucherie,French,"Midtown West, New York, NY","145 W 53rd St, New York, NY 10019, USA",40.7630013,-73.9802753
+Fish Cheeks,Thai,"Noho, New York, NY","55 Bond St, New York, NY 10012, USA",40.7256763,-73.99268220000000
+Yama Ramen,Japanese / Sushi,"Midtown West, New York, NY","60 W 48th St, New York, NY 10036, USA",40.7581743,-73.9806218
+Broadway Lounge,American (New),"Times Square/Theatre District, New York, NY","1535 Broadway, New York, NY 10036, USA",40.7588268,-73.98638200000000
+The Dutch,American (New),"Soho, New York, NY","131 Sullivan St, New York, NY 10012, USA",40.7265479,-74.0021666
+Kissaki,Japanese / Sushi,"East Village, New York, NY","319 Bowery, New York, NY 10003, USA",40.725321,-73.99184570000000
+Socarrat Paella Bar - Midtown East,Spanish,"Midtown East, New York, NY","953 2nd Ave, New York, NY 10022, USA",40.7553346,-73.968549
+Crave Fishbar - Midtown,Seafood,"Midtown East, New York, NY","945 2nd Ave, New York, NY 10022, USA",40.755145,-73.9686917
+Kings of Kobe,Steakhouse,"Hells Kitchen, New York, NY","650 W 42nd St, New York, NY 10036, USA",40.7614321,-74.0004491
+Sake No Hana,Japanese / Sushi,"Lower East Side, New York, NY","145 Bowery, New York, NY 10002, USA",40.71895690000000,-73.9944117
+Bar Sprezzatura,Italian,"Times Square/Theatre District, New York, NY","251 W 48th St, New York, NY 10036, USA",40.7610219,-73.98665300000000
+Wagamama - Murray Hill,Asian Fusion,"Murray Hill, New York, NY","605 3rd Ave, New York, NY 10158, USA",40.7488816,-73.9751057
+Bottino,Italian,"Chelsea, New York, NY","246 10th Ave, New York, NY 10001, USA",40.7485037,-74.0032891
+Noreetuh,Hawaiian,"East Village, New York, NY","128 1st Ave, New York, NY 10009, USA",40.7272947,-73.9852521
+Twin Tails,Thai,"Upper West Side, New York, NY","10 Columbus Cir 3rd Floor, New York, NY 10019, USA",40.7686531,-73.9832874
+Charlie Palmer Steak IV,Steakhouse,"Times Square/Theatre District, New York, NY","The Knickerbocker Hotel, 6 Times Sq 4th floor, New York, NY 10036, USA",40.7554688,-73.9863041
+Ocean Prime,Seafood,"Midtown West, New York, NY","123 W 52nd St, New York, NY 10019, USA",40.7617173,-73.980547
+La Gioconda,Italian,"Midtown East, New York, NY","226 E 53rd St, New York, NY 10022, USA",40.7571743,-73.96838300000000
+Chez Nick,American (New),"Upper East Side, New York, NY","1737 York Ave, New York, NY 10128, USA",40.7790105,-73.9452127
+Oda House - Manhattan,Eastern European,"Upper East Side, New York, NY","406 E 73rd St, New York, NY 10021, USA",40.7681035,-73.9549634
+Sarabeth's Central Park South,American (New),"Midtown West, New York, NY","40 Central Park S Located in: 40 West 59th Street Condominium, New York, NY 10019, USA",40.7825547,-73.9655834
+Stout NYC Grand Central,American (Traditional),"Murray Hill, New York, NY","60 E 41st St, New York, NY 10017, USA",40.7515957,-73.9788468
+Crave Fishbar - Upper West Side,Seafood,"Upper West Side, New York, NY","428 Amsterdam Ave, New York, NY 10024, USA",40.7842654,-73.9778134
+Monterey,American (New),"Midtown East, New York, NY","37 E 50th St, New York, NY 10022, USA",40.7578864,-73.9746074
+Delmonico's,Steakhouse,"Lower Manhattan, New York, NY","56 Beaver St, New York, NY 10004, USA",40.7049925,-74.01059480000000
+Kyma,Greek,"Flatiron District, New York, NY","15 W 18th St, New York, NY 10011, USA",40.7391382,-73.9928051
+Comal,Mexican,"Lower East Side, New York, NY","116 Forsyth St, New York, NY 10002, USA",40.7191233,-73.9921624
+Danji,Korean,"Hells Kitchen, New York, NY","346 W 52nd St, New York, NY 10019, USA",40.7640415,-73.9868497
+Pomp & Circumstance,Mediterranean,"Williamsburg, New York, NY","577 Lorimer St, Brooklyn, NY 11211, USA",40.7142586,-73.9496365
+Sabai Thai,Thai,"Nomad, New York, NY","432 Park Ave S, New York, NY 10016, USA",40.7442673,-73.9837039
+Olio e Più,Italian,"West Village, New York, NY","3 Greenwich Ave, New York, NY 10014, USA",40.7338471,-73.9998667
+Meadowsweet,American (New),"Williamsburg, New York, NY","149 Broadway, Brooklyn, NY 11211, USA",40.7104256,-73.96312430000000
+Indochine,Vietnamese,"Noho, New York, NY","430 Lafayette St, New York, NY 10003, USA",40.7293047,-73.99255220000000
+Melba’s,Soul Food / Southern,"Harlem, New York, NY","300 W 114th St, New York, NY 10026, USA",40.8031258,-73.9566693
+Moono,Korean,"Koreatown, New York, NY","29 E 32nd St, New York, NY 10016, USA",40.7464153,-73.98333150000000
+Ophelia Lounge NYC,American (New),"Midtown East, New York, NY","3 Mitchell Pl 26th floor, New York, NY 10017, USA",40.753401,-73.96617360000000
+Baires Grill New York,Argentinian,"Hells Kitchen, New York, NY","350 W 50th St, New York, NY 10019, USA",40.76269570000000,-73.9875942
+Mezze on the River,American (Traditional),"Lower Manhattan, New York, NY","375 S End Ave, New York, NY 10280, USA",40.7112505,-74.0176287
+Bobo,French,"West Village, New York, NY","181 W 10th St, New York, NY 10014, USA",40.7345161,-74.0026414
+Maya,Mexican,"Upper East Side, New York, NY","1191 1st Ave, New York, NY 10065, USA",40.7631741,-73.95972360000000
+One Dine,American (New),"Lower Manhattan, New York, NY","117 West St, New York, NY 10007, USA",40.7131216,-74.01336310000000
+Four Twenty Five,American (New),"Midtown East, New York, NY","425 Park Ave, New York, NY 10022, USA",40.7605565,-73.97106890000000
+Chazz Palminteri Italian Restaurant,Italian,"Midtown West, New York, NY","30 W 46th St, New York, NY 10036, USA",40.7564318,-73.9806682
+STK Downtown,Steakhouse,"Meatpacking District, New York, NY","26 Little W 12th St, New York, NY 10014, USA",40.739859,-74.00740380000000
+Il Falco,Italian,"Long Island City, New York, NY","21-50 44th Dr, Long Island City, NY 11101, USA",40.747512,-73.945545
+Osteria 57,Italian,"Greenwich Village, New York, NY","453 6th Ave, New York, NY 10011, USA",40.735162,-73.9987529
+The Lodge Bar by Stout NYC at Bryant Park,Italian,"Midtown West, New York, NY","109 W 39th St, New York, NY 10018, USA",40.7532842,-73.9859522
+Ci Siamo,Italian,"Chelsea, New York, NY","440 W 33rd St Suite #100, New York, NY 10001, USA",40.7525543,-73.99893020000000
+Maisonetta,Mexican,"Mott Haven, New York, NY","141 Lincoln Ave, Bronx, NY 10454, USA",40.808723,-73.9291428
+Amali,Mediterranean,"Upper East Side, New York, NY","115 E 60th St, New York, NY 10022, USA",40.76342880000000,-73.9685299
+Pulperia Latin Mediterranean Kitchen,Mediterranean,"Times Square/Theatre District, New York, NY","338 W 46th St, New York, NY 10036, USA",40.7601272,-73.989554
+Le Gratin,French,"Lower Manhattan, New York, NY","5 Beekman St, New York, NY 10038, USA",40.7112585,-74.0066214
+Oscar Wilde,American (New),"Nomad, New York, NY","45 W 27th St, New York, NY 10001, USA",40.7451715,-73.9900275
+Mable's Smokehouse and Banquet Hall,Barbecue,"Williamsburg, New York, NY","44 Berry St, Brooklyn, NY 11249, USA",40.7211699,-73.9564824
+Craft,American (New),"Gramercy, New York, NY","43 E 19th St, New York, NY 10003, USA",40.7381721,-73.9886689
+Seawolf - Bushwick,Seafood,"Bushwick, New York, NY","19 Wyckoff Ave, Brooklyn, NY 11237, USA",40.7068357,-73.9228064
+Morton's The Steakhouse—Manhattan,Steakhouse,"Midtown East, New York, NY","551 5th Ave, New York, NY 10017, USA",40.7557002,-73.9790606
+Raval Steakhouse,Steakhouse,"Tompkinsville, New York, NY","12 Minthorne St, Staten Island, NY 10301, USA",40.6371226,-74.0755683
+Sungold,American (New),"Williamsburg, New York, NY","96 Wythe Ave, Brooklyn, NY 11249, USA",40.7216011,-73.9588991
+Carmine's - Upper West Side,Italian,"Upper West Side, New York, NY","2450 Broadway, New York, NY 10024, USA",40.7911087,-73.9739812
+Momofuku Noodle Bar,Asian Fusion,"East Village, New York, NY","171 1st Ave, New York, NY 10003, USA",40.7292397,-73.9845028
+Leonetta,Mediterranean,"Murray Hill, New York, NY","181 Lexington Ave, New York, NY 10016, USA",40.7445325,-73.9808436
+Bryant Park Grill,American (Traditional),"Midtown West, New York, NY","25 W 40th St, New York, NY 10018, USA",40.7531999,-73.982957
+Legasea,American (New),"Garment District, New York, NY","485 7th Ave, New York, NY 10018, USA",40.7523102,-73.9891202
+Riverpark,American (New),"Kips Bay, New York, NY","440-450 E 29th St, New York, NY 10016, USA",40.7392692,-73.9734613
+Steak Frites Bistro,French,"Garment District, New York, NY","496 9th Ave, New York, NY 10018, USA",40.7555944,-73.9943859
+The Chemistry Room,Japanese / Sushi,"Times Square/Theatre District, New York, NY","130 W 47th St, New York, NY 10036, USA",40.7583541,-73.9832143
+Wallsé,Austrian,"West Village, New York, NY","344 W 11th St, New York, NY 10014, USA",40.7354249,-74.00823560000000
+Stout NYC Bryant Park,American (Traditional),"Garment District, New York, NY","109 W 39th St, New York, NY 10018, USA",40.7532842,-73.9859522
+Blue Fin,Seafood,"Times Square/Theatre District, New York, NY","1567 Broadway, New York, NY 10036, USA",40.7595007,-73.985587
+Giorgio's of Gramercy,American (New),"Gramercy, New York, NY","27 E 21st St, New York, NY 10010, USA",40.7397115,-73.9886319
+Mastro's Steakhouse NYC,Steakhouse,"Midtown West, New York, NY","1285 6th Ave, New York, NY 10019, USA",40.76110390000000,-73.9801635
+Hawksmoor,Steakhouse,"Gramercy, New York, NY","109 E 22nd St, New York, NY 10010, USA",40.7395356,-73.9863884
+Langan's,American (New),"Times Square/Theatre District, New York, NY","114 W 47th St, New York, NY 10036, USA",40.7582963,-73.9828891
+abcV,American (New),"Flatiron District, New York, NY","38 E 19th St, New York, NY 10003, USA",40.7379868,-73.9892758
+Skinos,Mediterranean,"Lower Manhattan, New York, NY","123 Washington St, New York, NY 10006, USA",40.7092122,-74.01375880000000
+Sant Ambroeus—Brookfield,Italian,"Battery Park City, New York, NY","230 Vesey St, New York, NY 10080, USA",40.7124742,-74.0156903
+JoJo,American (New),"Upper East Side, New York, NY","160 E 64th St, New York, NY 10065, USA",40.76508950000000,-73.96570180000000
+Akoya,Japanese / Sushi,"Times Square/Theatre District, New York, NY","6 Times Sq, New York, NY 10036, USA",40.7554688,-73.9863041
+Fandi Mata,Mediterranean,"Williamsburg, New York, NY","74 Bayard St, Brooklyn, NY 11222, USA",40.7188864,-73.94923850000000
+Via 13,Italian,"West Village, New York, NY","140 W 13th St, New York, NY 10011, USA",40.7372586,-73.9991582
+Rosemary's Midtown,Italian,"Midtown East, New York, NY","825 3rd Ave, New York, NY 10022, USA",40.7558815,-73.9703742
+La Sirene UWS,French,"Upper West Side, New York, NY","416 Amsterdam Ave, New York, NY 10024, USA",40.783853,-73.9782
+Coqodaq,Korean,"Flatiron District, New York, NY","12 E 22nd St, New York, NY 10010, USA",40.7400559,-73.9887467
+Bad Roman,Italian,"Upper West Side, New York, NY","3rd floor, 10 Columbus Cir, New York, NY 10019, USA",40.7685526,-73.9831866
+Bocca Di Bacco—Chelsea,Italian,"Chelsea, New York, NY","169 9th Ave, New York, NY 10011, USA",40.744614,-74.0029792
+Maizal,Mexican,"Rosebank, New York, NY","990 Bay St, Staten Island, NY 10305, USA",40.6183546,-74.0695183
+Siren Oyster Bar & Restaurant,Seafood,"South Slope, New York, NY","687 5th Ave, Brooklyn, NY 11215, USA",40.6614057,-73.9930217
+Society Cafe,American (New),"Greenwich Village, New York, NY","52 W 13th St, New York, NY 10011, USA",40.73613340000000,-73.9966616
+Koi New York,Japanese / Sushi,"Midtown West, New York, NY","40 W 40th St, New York, NY 10018, USA",40.7528589,-73.9838979
+Rossini's,Italian,"Murray Hill, New York, NY","108 E 38th St, New York, NY 10016, USA",40.7491356,-73.9788985
+Mae Mae Cafe & Plant Shop,Eclectic,"Mott Haven, New York, NY","2417 Third Ave, Bronx, NY 10451, USA",40.8087961,-73.9307007
+Palermo Argentinian Bistro - Gramercy,Argentinian,"Gramercy, New York, NY","53 Irving Pl, New York, NY 10003, USA",40.7360984,-73.98749160000000
+Mission Ceviche - Union Square,Peruvian,"Union Square, New York, NY","7 E 17th St, New York, NY 10003, USA",40.73785550000000,-73.9913424
+Mission Ceviche - Upper East Side,Peruvian,"Upper East Side, New York, NY","1400 2nd Ave, New York, NY 10021, USA",40.769265,-73.9578044
+Dinner Party,American (New),"Clinton Hill, New York, NY","274 Hall St, Brooklyn, NY 11205, USA",40.6900427,-73.9654379
+Panda Harlem,Chinese,"Harlem, New York, NY","2331 12th Ave, New York, NY 10027, USA",40.8199852,-73.9585029
+Wagamama - Nomad/Flatiron,Asian Fusion,"Flatiron District, New York, NY","210 fifth avenue at, W 26th St, New York, NY 10010, USA",40.7433574,-73.98877110000000
+Barbetta,Italian,"Times Square/Theatre District, New York, NY","321 W 46th St, New York, NY 10036, USA",40.7604036,-73.9889142
+Ai Fiori,Italian,"Midtown West, New York, NY","400 5th Ave #2, New York, NY 10018, USA",40.7500752,-73.9837835
+Hutong,Chinese,"Midtown East, New York, NY","Inside Beacon Courtyard, 731 Lexington Ave, New York, NY 10022, USA",40.7618633,-73.9682894
+Audace,Italian,"Nomad, New York, NY","365 Park Ave S, New York, NY 10016, USA",40.74209160000000,-73.98461380000000
+Kubeh,Middle Eastern,"Greenwich Village, New York, NY","464 6th Ave, New York, NY 10011, USA",40.7354505,-73.99799160000000
+The Dram Shop Bar,American (Traditional),"Park Slope, New York, NY","339 9th St, Brooklyn, NY 11215, USA",40.66888490000000,-73.98505450000000
+Kellari Taverna,Greek,"Midtown West, New York, NY","19 W 44th St, New York, NY 10036, USA",40.7553215,-73.9814794
+Le B.,French,"West Village, New York, NY","283 W 12th St, New York, NY 10014, USA",40.7376887,-74.0040233
+Ben & Jack's 44th Street,Steakhouse,"Midtown East, New York, NY","219 E 44th St, New York, NY 10017, USA",40.7518502,-73.9725168
+Mr Chow New York - 57th Street,Chinese,"Midtown East, New York, NY","324 E 57th St, New York, NY 10022, USA",40.7588261,-73.96432950000000
+Luigi's,Italian,"New Hyde Park, New York, NY","265-21 Union Tpke, Queens, NY 11040, USA",40.7496513,-73.7075825
+When in Bangkok,Thai,"Flushing, New York, NY","161-16 Northern Blvd, Flushing, NY 11358, USA",40.7622,-73.80427570000000
+Warren Street Bar & Restaurant,American (New),"Tribeca, New York, NY","86 Warren St, New York, NY 10007, USA",40.7155632,-74.010503
+Obao Midtown East,Thai,"Midtown East, New York, NY","222 E 53rd St, New York, NY 10022, USA",40.7571525,-73.9685544
+The Half Pint,Gastropub,"Greenwich Village, New York, NY","76 W 3rd St, New York, NY 10012, USA",40.7295121,-73.9985343
+Felice Montague,Italian,"Brooklyn Heights, New York, NY","84 Montague St, Brooklyn, NY 11201, USA",40.6951676,-73.9961032
+Tuscan Hills,Italian,"Forest Hills, New York, NY","110-60 Queens Blvd, Forest Hills, NY 11375, USA",40.7189717,-73.8393511
+Da Andrea - Chelsea,Italian,"Chelsea, New York, NY","160 8th Ave, New York, NY 10011, USA",40.7420291,-74.0004666
+Felice on Hudson,Italian,"West Village, New York, NY","615 Hudson St, New York, NY 10014, USA",40.7378294,-74.00589270000000
+La Masseria,Italian,"Times Square/Theatre District, New York, NY","235 W 48th St, New York, NY 10036, USA",40.7608161,-73.9860025
+Bocca Di Bacco—Theatre District,Italian,"Hells Kitchen, New York, NY","635 9th Ave, New York, NY 10036, USA",40.7602533,-73.9916643
+Kimika,Eclectic,"Nolita, New York, NY","40 Kenmare St, New York, NY 10012, USA",40.7206118,-73.9952615
+Sushi of Gari 46,Japanese / Sushi,"Times Square/Theatre District, New York, NY","347 W 46th St, New York, NY 10036, USA",40.7606826,-73.9896109
+Bar Milano by Eataly,Italian,"Flatiron District, New York, NY","200 5th Ave, New York, NY 10010, USA",40.7419668,-73.9895296
+The Shell Seafood Kitchen,Mediterranean,"Upper West Side, New York, NY","635 Amsterdam Ave, New York, NY 10025, USA",40.7906204,-73.9724608
+Flava of the Bronx,Caribbean,"Woodstock, New York, NY","3114 Third Ave, Bronx, NY 10451, USA",40.8219522,-73.9114987
+Ammos Estiatorio - Grand Central,Mediterranean,"Midtown East, New York, NY","52 Vanderbilt Ave, New York, NY 10017, USA",40.755008,-73.97815900000000
+ABC Cocina,Latin American,"Union Square, New York, NY","38 E 19th St, New York, NY 10003, USA",40.7379868,-73.9892758
+Veselka,Ukrainian,"East Village, New York, NY","144 2nd Ave, New York, NY 10003, USA",40.7289226,-73.98692850000000
+Patrick's on the Hill,Caribbean,"Hamilton Heights, New York, NY","1627-1635 Amsterdam Ave, New York, NY 10031, USA",40.822384,-73.9494596
+Felice 15 Gold Street,Italian,"Lower Manhattan, New York, NY","15 Gold St, New York, NY 10038, USA",40.7078815,-74.00712880000000
+Stout NYC Financial District,American (Traditional),"Lower Manhattan, New York, NY","90 John St, New York, NY 10038, USA",40.7079836,-74.00648610000000
+Cuna NYC,Mexican,"East Village, New York, NY","25 Cooper Sq, New York, NY 10003, USA",40.7278896,-73.9907987
+Jade Eatery & Lounge,Asian Fusion,"Forest Hills, New York, NY","1 Station Square #2, Forest Hills, NY 11375, USA",40.7189633,-73.84519400000000
+Brass & the Tusk Bar,American (New),"Nomad, New York, NY","7 E 27th St, New York, NY 10016, USA",40.7439642,-73.986983
+Sei Less,Chinese,"Garment District, New York, NY","156 W 38th St, New York, NY 10018, USA",40.7532163,-73.9884491
+Mark's Off Madison,Italian,"Nomad, New York, NY","41 Madison Ave Ground Level, New York, NY 10010, USA",40.7425604,-73.9864149
+Benjamin Prime,Steakhouse,"Murray Hill, New York, NY","23 E 40th St, Between Madison &, Park Ave, New York, NY 10016, USA",40.7514456,-73.97964740000000
+Havana Central,Cuban,"Times Square/Theatre District, New York, NY","151 W 46th St, New York, NY 10036, USA",40.7583262,-73.984105
+Red Hook Lobster Pound,Seafood,"Red Hook, New York, NY","284 Van Brunt St, Brooklyn, NY 11231, USA",40.67985610000000,-74.0103683
+Le Fleur Rouge,Chinese,"Park Slope, New York, NY","392 5th Ave, Brooklyn, NY 11215, USA",40.6708357,-73.9851862
+Mito - Forest Hills,Japanese / Sushi,"Forest Hills, New York, NY","64-18 108th St, Forest Hills, NY 11375, USA",40.7323718,-73.8497752
+Benoit Restaurant & Wine Bar,French,"Midtown West, New York, NY","60 W 55th St, New York, NY 10019, USA",40.7624865,-73.97734680000000
+Manhatta,American (New),"Lower Manhattan, New York, NY","28 Liberty St 60th floor, New York, NY 10005, USA",40.7079257,-74.0089318
+Lore,Eclectic,"South Slope, New York, NY","441 7th Ave, Brooklyn, NY 11215, USA",40.663082,-73.9844024
+Sushi Sen-Nin,Japanese / Sushi,"Murray Hill, New York, NY","30 E 33rd St, New York, NY 10016, USA",40.7467682,-73.9829632
+Indian Table,Indian,"Cobble Hill, New York, NY","234 Court St, Brooklyn, NY 11201, USA",40.6860356,-73.99441160000000
+Smith & Wollensky,Steakhouse,"Midtown East, New York, NY","797 3rd Ave, New York, NY 10022, USA",40.75526,-73.97095
+Urban Cove Society & Kitchen,American (New),"The Seaport, New York, NY","33 Peck Slip, New York, NY 10038, USA",40.7080206,-74.0014468
+The Independent,American (New),"Times Square/Theatre District, New York, NY","147 W 40th St, New York, NY 10018, USA",40.7547596,-73.98743500000000
+HanGawi,Korean,"Koreatown, New York, NY","12 E 32nd St, New York, NY 10016, USA",40.7466666,-73.98473110000000
+The Flatiron Room - NoMad,American (New),"Nomad, New York, NY","37 W 26th St, New York, NY 10010, USA",40.7445519,-73.99043240000000
+Zoì Mediterranean NoMad,Mediterranean,"Koreatown, New York, NY","19 W 31st St, New York, NY 10001, USA",40.74722380000000,-73.9870206
+Miriam Upper West Side,Mediterranean,"Upper West Side, New York, NY","300 Amsterdam Ave, New York, NY 10023, USA",40.7802374,-73.9809789
+Park Ave Kitchen by David Burke,American (New),"Midtown East, New York, NY","514 Lexington Ave, New York, NY 10017, USA",40.7552566,-73.97356170000000
+Junoon,Indian,"Flatiron District, New York, NY","19 W 24th St, New York, NY 10010, USA",40.743029,-73.99044600000000
+Nami Nori - Williamsburg,Japanese / Sushi,"Williamsburg, New York, NY","236 N 12th St, Brooklyn, NY 11211, USA",40.7190781,-73.9528907
+Felice 64,Italian,"Upper East Side, New York, NY","1166 1st Ave, New York, NY 10065, USA",40.762514,-73.959485
+Bar56,American (New),"Dumbo, New York, NY","53 Water St, Brooklyn, NY 11201, USA",40.7033899,-73.9923524
+The Russian Tea Room,Continental,"Midtown West, New York, NY","150 W 57th St, New York, NY 10019, USA",40.7649085,-73.9794933
+Balade,Middle Eastern,"East Village, New York, NY","208 1st Ave, New York, NY 10009, USA",40.7302839,-73.9830748
+Pastai,Italian,"Chelsea, New York, NY","186 9th Ave, New York, NY 10011, USA",40.74540580000000,-74.0018528
+Essex,Steakhouse,"Lower East Side, New York, NY","124 Rivington St, New York, NY 10002, USA",40.7197875,-73.98709990000000
+Chela,Mexican,"Park Slope, New York, NY","408 5th Ave, Brooklyn, NY 11215, USA",40.67032280000000,-73.985704
+Pappardella,Italian,"Upper West Side, New York, NY","316 Columbus Ave, New York, NY 10023, USA",40.7793602,-73.9778048
+Central Park Boathouse,Continental,"Central Park, New York, NY","EAST 72ND ST +, Center Dr, New York, NY 10021, USA",40.769256,-73.9594284
+Alta Calidad,Mexican,"Prospect Heights, New York, NY","552 Vanderbilt Ave, Brooklyn, NY 11238, USA",40.6801241,-73.9681614
+Dagon,Mediterranean,"Upper West Side, New York, NY","2454 Broadway, New York, NY 10024, USA",40.7911514,-73.97390830000000
+The Ribbon—Upper West Side,American (New),"Upper West Side, New York, NY","20 W 72nd St, New York, NY 10023, USA",40.776525,-73.9773718
+Mokyo,Korean,"East Village, New York, NY","109 St Marks Pl, New York, NY 10009, USA",40.7272256,-73.9838872
+Barbalu Bklyn,Italian,"Boerum Hill, New York, NY","68 Bergen St, Brooklyn, NY 11201, USA",40.6867438,-73.9910146
+Dirty French,French,"Lower East Side, New York, NY","180 Ludlow St, New York, NY 10002, USA",40.7218543,-73.9871679
+Nar Restaurant,Mediterranean,"Flatiron District, New York, NY","34 E 20th St #3, New York, NY 10003, USA",40.7385358,-73.98877640000000
+Pete's Tavern,American (Traditional),"Gramercy, New York, NY","129 E 18th St, New York, NY 10003, USA",40.736528,-73.9866747
+1803 NYC,Cajun/Creole,"Tribeca, New York, NY","82 Reade St, New York, NY 10007, USA",40.7148664,-74.0065159
+Tudor City Steakhouse,Steakhouse,"Midtown East, New York, NY","45 Tudor City Pl, New York, NY 10017, USA",40.7493702,-73.9699861
+The Palm - Midtown,Steakhouse,"Times Square/Theatre District, New York, NY","250 W 50th St, New York, NY 10019, USA",40.7619382,-73.98571630000000
+Boucherie West Village,French,"West Village, New York, NY","99 7th Ave S, New York, NY 10014, USA",40.733047,-74.0028772
+Il Carino,Italian,"Upper East Side, New York, NY","1710 2nd Ave, New York, NY 10128, USA",40.7794742,-73.9502189
+Kyma Hudson Yards,Greek,"Hudson Yards, New York, NY","445 W 35th St, New York, NY 10001, USA",40.7551217,-73.9978216
+Virgil's Real BBQ - Times Square,Barbecue,"Times Square/Theatre District, New York, NY","152 W 44th St, New York, NY 10036, USA",40.7567595,-73.9851662
+Bar Primi - Bowery,Italian,"East Village, New York, NY","325 Bowery, New York, NY 10003, USA",40.7257162,-73.9916803
+Benny John's Bar and Grill,Steakhouse,"Midtown East, New York, NY","8 E 48th St, New York, NY 10017, USA",40.7568173,-73.9774474
+Frenchman's Dough,Italian,"The Seaport, New York, NY","96 South St, New York, NY 10038, USA",40.70619500000000,-74.00226910000000
+T. Brasserie,French,"The Seaport, New York, NY","96 South St, New York, NY 10038, USA",40.70619500000000,-74.00226910000000
+Le Basque,French,"Union Square, New York, NY","15 Union Square W, New York, NY 10003, USA",40.73589340000000,-73.9917033
+Quality Bistro,French,"Midtown West, New York, NY","120 W 55th St, New York, NY 10019, USA",40.7631488,-73.97922420000000
+Villa Berulia,Italian,"Murray Hill, New York, NY","107 E 34th St, New York, NY 10016, USA",40.7469315,-73.98053950000000
+Gran Morsi,Italian,"Tribeca, New York, NY","22 Warren St, New York, NY 10007, USA",40.7143252,-74.00777960000000
+Catch NYC,Seafood,"Meatpacking District, New York, NY","21 9th Ave, New York, NY 10014, USA",40.740127,-74.006202
+Jazba,Indian,"East Village, New York, NY","207 2nd Ave, New York, NY 10003, USA",40.7317071,-73.9858725
+Bocca Di Bacco—Hell's Kitchen,Italian,"Hells Kitchen, New York, NY","836 9th Ave, New York, NY 10019, USA",40.7662696,-73.986706
+Obao Hell's Kitchen,Thai,"Hells Kitchen, New York, NY","647 9th Ave, New York, NY 10036, USA",40.7606617,-73.99133860000000
+Pera SoHo,Mediterranean,"Soho, New York, NY","54 Thompson Street, corner of, Broome St, New York, NY 10012, USA",40.7238441,-74.0033262
+Wayward Fare,Italian,"Prospect Heights, New York, NY","554 Vanderbilt Ave, Brooklyn, NY 11238, USA",40.6800795,-73.9682811
+Bond 45,Italian,"Times Square/Theatre District, New York, NY","221 W 46th St, New York, NY 10036, USA",40.7593741,-73.98617450000000
+Bar Primi - Penn District,Italian,"Chelsea, New York, NY","349 W 33rd St, New York, NY 10001, USA",40.7524624,-73.9958877
+BOTA Supper Club,American (New),"St. George, New York, NY","402 St Marks Pl, Staten Island, NY 10301, USA",40.6399365,-74.0777926
+Nudibranch,Korean,"East Village, New York, NY","125 1st Ave, New York, NY 10003, USA",40.7274205,-73.9857285
+Burger & Lobster Bryant Park,Seafood,"Times Square/Theatre District, New York, NY","132 W 43rd St, New York, NY 10036, USA",40.7559517,-73.9851995
+Marseille,French,"Hells Kitchen, New York, NY","630 9th Ave, New York, NY 10036, USA",40.759987,-73.9912338
+Hearth,Italian,"East Village, New York, NY","403 E 12th St, New York, NY 10009, USA",40.7300263,-73.9831883
+Dagg Thai,Thai,"Murray Hill, New York, NY","10 E 39th St, New York, NY 10016, USA",40.751161,-73.981529
+La Pecora Bianca NoMad,Italian,"Nomad, New York, NY","1133 Broadway, New York, NY 10010, USA",40.7436889,-73.989176
+Nice Matin,French,"Upper West Side, New York, NY","201 W 79th St, New York, NY 10024, USA",40.783438,-73.97849150000000
+Trattoria Dell'Arte,Italian,"Midtown West, New York, NY","900 7th Ave, New York, NY 10106, USA",40.7653677,-73.9803759
+Francie,American (New),"Williamsburg, New York, NY","136 Broadway, Brooklyn, NY 11249, USA",40.7101876,-73.9640308
+Momoya Soho,Japanese / Sushi,"Nolita, New York, NY","47 Prince St, New York, NY 10012, USA",40.7235132,-73.9958467
+Hunt & Fish Club NYC,Steakhouse,"Times Square/Theatre District, New York, NY","125 W 44th St, New York, NY 10036, USA",40.756771,-73.9842496
+Scarpetta,Italian,"Nomad, New York, NY","88 Madison Ave, New York, NY 10016, USA",40.7443811,-73.98563590000000
+Rosevale Cocktail Room,American (New),"Hells Kitchen, New York, NY","305 W 48th St 2nd Floor, New York, NY 10036, USA",40.76143,-73.9874509
+Travelers Poets & Friends,Italian,"West Village, New York, NY","457 6th Ave, New York, NY 10011, USA",40.735255,-73.998673
+Il Mulino Prime | Soho,Steakhouse,"Soho, New York, NY","331 W Broadway, New York, NY 10013, USA",40.7221361,-74.00382020000000
+Wabi Nori,Japanese / Sushi,"Lower East Side, New York, NY","115 Essex St, New York, NY 10002, USA",40.7195897,-73.98796400000000
+Heritage Grand Bakery,Mediterranean,"Midtown West, New York, NY","8 W 40th St, New York, NY 10018, USA",40.7522652,-73.9826166
+Vino &... - Eataly NYC Downtown,Italian,"Lower Manhattan, New York, NY","101 Liberty St, New York, NY 10006, USA",40.71031870000000,-74.011926
+Crave Fishbar - Upper East Side,Seafood,"Upper East Side, New York, NY","1462 2nd Ave, New York, NY 10075, USA",40.7715742,-73.9560201
+The Greenhouse Cafe,American (New),"Bay Ridge, New York, NY","7717 3rd Ave, Brooklyn, NY 11209, USA",40.6295393,-74.0283024
+Robert,American (New),"Midtown West, New York, NY","2 Columbus Cir, New York, NY 10019, USA",40.7674065,-73.9819905
+Rosemary's West Village,Italian,"West Village, New York, NY","18 Greenwich Ave, New York, NY 10011, USA",40.7348852,-73.9996717
+The Stand,Italian,"Union Square, New York, NY","116 E 16th St, New York, NY 10003, USA",40.73534,-73.9884797
+Schilling,Austrian,"Lower Manhattan, New York, NY","109 Washington St, New York, NY 10006, USA",40.7085844,-74.01401660000000
+Olio e Più Bryant Park,Italian,"Midtown West, New York, NY","5 Bryant Pk, New York, NY 10018, USA",40.7540133,-73.9854801
+Rosemary's East,Italian,"Gramercy, New York, NY","350 1st Ave, New York, NY 10010, USA",40.7350134,-73.9763913
+Miriam West Village,Mediterranean,"West Village, New York, NY","140 7th Ave S, New York, NY 10014, USA",40.734727,-74.0023992
+Sagaponack,Seafood,"Flatiron District, New York, NY","4 W 22nd St, New York, NY 10010, USA",40.7409362,-73.9907851
+Zoì Mediterranean UES,Mediterranean,"Upper East Side, New York, NY","1480 2nd Ave, New York, NY 10075, USA",40.771994,-73.955612
+Parklife,Mexican,"Gowanus, New York, NY","636 Degraw St, Brooklyn, NY 11217, USA",40.6787242,-73.9832208
+Jing Li,Chinese,"Long Island City, New York, NY","27-35 Jackson Ave, Long Island City, NY 11101, USA",40.7481812,-73.9403027
+Casa Brazilian,Brazilian,"Tribeca, New York, NY","157 Duane St, New York, NY 10013, USA",40.7169073,-74.00858900000000
+Wayan,Asian Fusion,"Nolita, New York, NY","20 Spring St, New York, NY 10012, USA",40.7212544,-73.9951375
+Sempre Oggi,Italian,"Upper West Side, New York, NY","164 W 75th St, New York, NY 10023, USA",40.7802763,-73.97988940000000
+Strip House Downtown,Steakhouse,"Greenwich Village, New York, NY","13 E 12th St, New York, NY 10003, USA",40.734316,-73.99351420000000
+Vallata,Italian,"Gramercy, New York, NY","47 E 19th St, New York, NY 10003, USA",40.7380708,-73.9886063
+Dante,Italian,"Greenwich Village, New York, NY","79-81 MacDougal St, New York, NY 10012, USA",40.728782,-74.0016414
+ofCorsica,Mediterranean,"Chelsea, New York, NY","25 11th Ave, New York, NY 10011, USA",40.74294100000000,-74.0091145
+Cafe D'Alsace,French,"Upper East Side, New York, NY","1703 2nd Ave, New York, NY 10128, USA",40.7794553,-73.9509281
+Kyu NYC,Asian Fusion,"Noho, New York, NY","324 Lafayette St, New York, NY 10012, USA",40.7256063,-73.99526140000000
+Le Jardinier,French,"Midtown East, New York, NY","610 Lexington Ave, New York, NY 10022, USA",40.7583074,-73.97138680000000
+The Paris Cafe,French,"The Seaport, New York, NY","119 South Street, 119 Peck Slip, New York, NY 10038, USA",40.7072716,-74.0015945
+AperiBar,Italian,"Times Square/Theatre District, New York, NY","LUMA Hotel Times Square, 120 W 41st St, New York, NY 10036, USA",40.7545818,-73.9857708
+Kraam,Thai,"Nomad, New York, NY","254 5th Ave, New York, NY 10001, USA",40.74497340000000,-73.98743450000000
+American Cut Tribeca,Steakhouse,"Tribeca, New York, NY","363 Greenwich St, New York, NY 10013, USA",40.7190968,-74.01001440000000
+Hard Rock Cafe,American (Traditional),"Times Square/Theatre District, New York, NY","1501 Broadway, New York, NY 10036, USA",40.7579747,-73.9855426
+Lattanzi Cucina Italiana,Italian,"Times Square/Theatre District, New York, NY","361 W 46th St, New York, NY 10036, USA",40.760863,-73.99001180000000
+Jupiter,Italian,"Midtown West, New York, NY","Rink Level, 20 W 50th St, New York, NY 10020, USA",40.75890130000000,-73.9787731
+Patsy's Italian Restaurant,Italian,"Midtown West, New York, NY","236 W 56th St, New York, NY 10019, USA",40.7655465,-73.9828126
+Masseria Dei Vini,Italian,"Hells Kitchen, New York, NY","887 9th Ave, New York, NY 10019, USA",40.7684477,-73.9857048
+Restaurant Nippon,Japanese / Sushi,"Midtown East, New York, NY","155 E 52nd St, New York, NY 10022, USA",40.7574337,-73.97037640000000
+Cut,Steakhouse,"Lower Manhattan, New York, NY","99 Church St, New York, NY 10007, USA",40.7128448,-74.0089923
+Altesi Downtown,Italian,"Soho, New York, NY","200 Spring St, New York, NY 10012, USA",40.7249892,-74.003455
+Naks,Filipino,"New York, NY","201 1st Ave, New York, NY 10003, USA",40.7303138,-73.98363000000000
+Eléa,Greek,"Upper West Side, New York, NY","217 W 85th St, New York, NY 10024, USA",40.7875756,-73.97644700000000
+The Long Room,Irish,"Times Square/Theatre District, New York, NY","120 W 44th St, New York, NY 10036, USA",40.7564769,-73.984303
+Del Frisco's Grille,Steakhouse,"Midtown West, New York, NY","50 Rockefeller Plaza, New York, NY 10020, USA",40.7594905,-73.9784974
+Palo Santo,Latin American,"Park Slope, New York, NY","652 Union St, Brooklyn, NY 11215, USA",40.6767792,-73.9819763
+Industry Kitchen,American (New),"The Seaport, New York, NY","70 South St, New York, NY 10005, USA",40.7031277,-74.0083191
+Sushi Lab Rooftop,Japanese / Sushi,"Times Square/Theatre District, New York, NY","132 W 47th St, New York, NY 10036, USA",40.7584057,-73.9833062
+Empire Steak House - Midtown East,Steakhouse,"Midtown East, New York, NY","151 E 50th St, New York, NY 10022, USA",40.7561844,-73.9712258
+Sicily Osteria,Italian,"Times Square/Theatre District, New York, NY","328-330 W 46th St, New York, NY 10036, USA",40.7601601,-73.9891863
+Nick + Stef's Steakhouse,Steakhouse,"Midtown West, New York, NY","9 Pennsylvania Plaza, New York, NY 10001, USA",40.7510502,-73.9932346
+Bonsaii Tapas & Wine Bar,Continental,"Midtown East, New York, NY","127 E 55th St, New York, NY 10022, USA",40.7600087,-73.9704053
+The Dynamo Room,Steakhouse,"Chelsea, New York, NY","2 Pennsylvania Plaza, New York, NY 10121, USA",40.7494331,-73.9914027
+Nino's,Italian,"Midtown East, New York, NY","405 E 52nd St, New York, NY 10022, USA",40.7550069,-73.9646207
+Altesi Ristorante,Italian,"Upper East Side, New York, NY","26 E 64th St, New York, NY 10065, USA",40.7666942,-73.9695861
+Morgan's Brooklyn Barbecue,Barbecue,"Prospect Heights, New York, NY","267 Flatbush Ave, Brooklyn, NY 11217, USA",40.6798958,-73.9740726
+French Roast,French,"Upper West Side, New York, NY","2340 Broadway, New York, NY 10024, USA",40.7876461,-73.9767636
+Estiatorio Milos Hudson Yards,Seafood,"Hudson Yards, New York, NY","20 Hudson Yards Fifth Floor, New York, NY 10001, USA",40.7533936,-74.00105500000000
+Harta,American (New),"Garment District, New York, NY","30 W 39th St, New York, NY 10018, USA",40.7520653,-73.9838791
+Uva Next Door,Italian,"Upper East Side, New York, NY","1484 2nd Ave, New York, NY 10075, USA",40.7721555,-73.9556516
+Nusr-Et - Midtown,Steakhouse,"Midtown West, New York, NY","60 W 53rd St, New York, NY 10019, USA",40.7612786,-73.9787097
+Gui Steakhouse,Steakhouse,"Times Square/Theatre District, New York, NY","776 8th Ave, New York, NY 10036, USA",40.7605436,-73.9870459
+The Parliament,American (Traditional),"Midtown East, New York, NY","557 Lexington Ave, New York, NY 10022, USA",40.756593,-73.971947
+Jack & Charlie’s No. 118,American (New),"West Village, New York, NY","118 Greenwich Ave, New York, NY 10011, USA",40.7385575,-74.0021182
+Aqua Kyoto,Japanese / Sushi,"Flatiron District, New York, NY","20 E 21st St, New York, NY 10010, USA",40.7396059,-73.98921040000000
+Liebman’s Deli,Delicatessen,"Riverdale, New York, NY","552 W 235th St, Bronx, NY 10463, USA",40.8854948,-73.90969970000000
+La Pizza & La Pasta,Italian,"Lower Manhattan, New York, NY","101 Liberty St, New York, NY 10006, USA",40.71031870000000,-74.011926
+Baciccia Pizza e Cucina,Italian,"Park Slope, New York, NY","426A 7th Ave, Brooklyn, NY 11215, USA",40.6638125,-73.98445340000000
+Brooklyn Chop House - Downtown,Steakhouse,"Lower Manhattan, New York, NY","150 Nassau St, New York, NY 10038, USA",40.7115483,-74.0059043
+Churrascaria Plataforma Brazilian Steakhouse,Brazilian,"Midtown West, New York, NY","316 W 49th St, New York, NY 10019, USA",40.7619279,-73.9877249
+Zuma,Japanese / Sushi,"Murray Hill, New York, NY","261 Madison Ave, New York, NY 10016, USA",40.7505033,-73.98064520000000
+The Clocktower,British,"Flatiron District, New York, NY","5 Madison Ave, New York, NY 10010, USA",40.7412664,-73.9874068
+Felice Columbus,Italian,"Upper West Side, New York, NY","240 Columbus Ave, New York, NY 10023, USA",40.7769784,-73.9793528
+The Tuck Room,Gastropub,"The Seaport, New York, NY","11 Fulton St, New York, NY 10038, USA",40.706706,-74.0032846
+Cebu Bar & Bistro,American (New),"Bay Ridge, New York, NY","8801 3rd Ave, Brooklyn, NY 11209, USA",40.6218955,-74.03142490000000
+Veerays,Indian,"Midtown East, New York, NY","213 E 45th St, New York, NY 10017, USA",40.7525585,-73.97228460000000
+Next Door,Japanese / Sushi,"Noho, New York, NY","770 Broadway, New York, NY 10003, USA",40.7309692,-73.9916844
+Little Maven,American (New),"Flatiron District, New York, NY","30 W 18th St, New York, NY 10011, USA",40.7390611,-73.99337880000000
+The Gallery,Japanese / Sushi,"Flatiron District, New York, NY","17 W 20th St 4th Floor, New York, NY 10011, USA",40.7403982,-73.9921624
+Takumen,Japanese / Sushi,"Long Island City, New York, NY","5-50 50th Ave, Long Island City, NY 11101, USA",40.7426643,-73.9547002
+Limusina,Mexican,"Hells Kitchen, New York, NY","441 9th Ave, New York, NY 10001, USA",40.7541648,-73.99643450000000
+Stone Park Cafe,American (New),"Park Slope, New York, NY","324 5th Ave, Brooklyn, NY 11215, USA",40.6729864,-73.98335570000000
+Vin Sur Vingt - E. 51st St.,French,"Midtown East, New York, NY","230 E 51st St, New York, NY 10022, USA",40.7556979,-73.9691596
+Miriam Upper East Side,Mediterranean,"Upper East Side, New York, NY","973 Lexington Ave, New York, NY 10021, USA",40.7693115,-73.9626262
+El Coco - Hell's Kitchen,Mexican,"Hells Kitchen, New York, NY","828 9th Ave, New York, NY 10019, USA",40.766136,-73.9867939
+Twenty-Sevens,American (New),"Midtown West, New York, NY","870 7th Ave, New York, NY 10019, USA",40.7644049,-73.9810836
+Miss Lily's 7A,Caribbean,"East Village, New York, NY","109 Avenue A, New York, NY 10009, USA",40.7260534,-73.9838523
+Anassa Taverna - Manhattan,Greek,"Upper East Side, New York, NY","200 E 60th St, New York, NY 10022, USA",40.7619358,-73.96590310000000
+La Baraka,French,"Little Neck, New York, NY","255-09 Northern Blvd, Little Neck, NY 11362, USA",40.77233,-73.734397
+The Dolar Shop Hot Pot,Chinese,"East Village, New York, NY","55 3rd Ave, New York, NY 10003, USA",40.7310965,-73.98850790000000
+La Pizza & La Pasta,Italian,"Flatiron District, New York, NY","200 5th Ave, New York, NY 10010, USA",40.7419668,-73.9895296
+Maggie's Place,American (New),"Midtown East, New York, NY","21 E 47th St, New York, NY 10017, USA",40.7562972,-73.97711450000000
+The Dining Room at Gramercy Tavern,American (New),"Gramercy, New York, NY","42 E 20th St, New York, NY 10003, USA",40.73846350000000,-73.98851050000000
+Dear Strangers,American (New),"Greenwich Village, New York, NY","147 W 4th St, New York, NY 10012, USA",40.731602,-74.000376
+Isabelle's Osteria,Italian,"Gramercy, New York, NY","245 Park Ave S, New York, NY 10003, USA",40.737976,-73.9875872
+San Sabino,Italian,"West Village, New York, NY","113 Greenwich Ave, New York, NY 10014, USA",40.7380199,-74.0021622
+So & So's,American (New),"Hells Kitchen, New York, NY","302 W 52nd St, New York, NY 10019, USA",40.7635668,-73.9854912
+Ginger Ristoranti,Italian,"Midtown West, New York, NY","123 W 49th St, New York, NY 10020, USA",40.7601622,-73.98237070000000
+The Quimby,American (New),"Jamaica, New York, NY","135-25 142nd St, South Ozone Park, NY 11436, USA",40.6673965,-73.796598
+The Splendid,American (New),"Midtown East, New York, NY","16 E 52nd St, New York, NY 10022, USA",40.75922380000000,-73.9754545
+Roey's,Italian,"West Village, New York, NY","1 Perry St, New York, NY 10014, USA",40.7359857,-74.00098920000000
+Psaraki,Greek,"Williamsburg, New York, NY","420 Kent Ave, Brooklyn, NY 11249, USA",40.70968550000000,-73.9691358
+Anton’s,American (New),"West Village, New York, NY","570 Hudson St, New York, NY 10014, USA",40.7356767,-74.0057727
+Torch & Crown Brewing Company,American (New),"Hudson Square, New York, NY","12 Vandam St, New York, NY 10013, USA",40.7262149,-74.00429200000000
+Palermo Argentinian Bistro - NYC,Argentinian,"Times Square/Theatre District, New York, NY","373 W 46th St, New York, NY 10036, USA",40.760954,-73.990343
+DomoDomo NYC,Japanese / Sushi,"Greenwich Village, New York, NY","140 W Houston St, New York, NY 10012, USA",40.7280131,-74.00161780000000
+Lincoln Ristorante,Italian,"Upper West Side, New York, NY","142 W 65th St, New York, NY 10023, USA",40.77337010000000,-73.983728
+Ilili Restaurant,Mediterranean,"Nomad, New York, NY","236 5th Ave, New York, NY 10001, USA",40.7444147,-73.98791950000000
+Jacques Brasserie,French,"Upper East Side, New York, NY","206 E 85th St, New York, NY 10028, USA",40.7778319,-73.9541443
+"Lorenzo's Restaurant, Bar & Cabaret",Italian,"Bloomfield, New York, NY","1100 South Ave, Staten Island, NY 10314, USA",40.6148998,-74.17674940000000
+Yakiniku Futago,Steakhouse,"Flatiron District, New York, NY","37 W 17th St, New York, NY 10011, USA",40.7388959,-73.99409060000000
+Masseria East,Italian,"Upper East Side, New York, NY","1404 3rd Ave, New York, NY 10075, USA",40.7749099,-73.9571627
+Momoya - Upper West Side,Japanese / Sushi,"Upper West Side, New York, NY","427 Amsterdam Ave, New York, NY 10024, USA",40.7840028,-73.9773355
+Soogil,Korean,"East Village, New York, NY","108 E 4th St, New York, NY 10003, USA",40.7255384,-73.988357
+Chito Gvrito NYC,Eastern European,"Gramercy, New York, NY","173 3rd Ave, New York, NY 10003, USA",40.7347628,-73.9858605
+Nougatine at Jean-Georges,American (New),"Upper West Side, New York, NY","1 Central Prk W, New York, NY 10023, USA",40.7690255,-73.98162550000000
+Pink Taco,Mexican,"Times Square/Theatre District, New York, NY","7 Times Sq, New York, NY 10036, USA",40.755583,-73.9868327
+Sofrito on the Hudson,Puerto Rican,"Hamilton Heights, New York, NY","679 Riverside Dr, New York, NY 10031, USA",40.82487830000000,-73.9572898
+Marsanne,Mediterranean,"Chelsea, New York, NY","233 8th Ave, New York, NY 10011, USA",40.7446196,-73.9992322
+Baci & Abbracci,Italian,"Williamsburg, New York, NY","204 Grand St, Brooklyn, NY 11211, USA",40.713973,-73.960411
+Treadwell Park - Downtown,American (Traditional),"Battery Park City, New York, NY","301 S End Ave, New York, NY 10280, USA",40.7103436,-74.016542
+Maiella,Italian,"Long Island City, New York, NY","46-10 Center Blvd, Long Island City, NY 11109, USA",40.7473062,-73.9570081
+DiWine,American (New),"Astoria, New York, NY","41-15 31st Ave, Astoria, NY 11103, USA",40.7608158,-73.9156375
+Boucherie Union Square,French,"Gramercy, New York, NY","225 Park Ave S, New York, NY 10003, USA",40.7371095,-73.9875967
+Benjamin Steakhouse,Steakhouse,"Midtown East, New York, NY","Inside The Dylan Hotel, 52 E 41st St, New York, NY 10017, USA",40.7516345,-73.9790926
+Il Buco Alimentari & Vineria,Italian,"Noho, New York, NY","53 Great Jones St, New York, NY 10012, USA",40.7264217,-73.992587
+'ino,Italian,"Flatiron District, New York, NY","31 E 20th St, New York, NY 10003, USA",40.7389849,-73.98895280000000
+Marlow Bistro,Mediterranean,"Upper West Side, New York, NY","1018 Amsterdam Ave, New York, NY 10025, USA",40.802973,-73.9642863
+Ayza,American (New),"Koreatown, New York, NY","11 W 31st St, New York, NY 10001, USA",40.7471122,-73.98690430000000
+Redeye Grill,American (New),"Midtown West, New York, NY","890 7th Ave, New York, NY 10019, USA",40.7651937,-73.9806837
+Lillie's Victorian—Union Square,American (New),"Union Square, New York, NY","13 E 17th St, New York, NY 10003, USA",40.7376827,-73.9911213
+Acadia,Mediterranean,"Midtown West, New York, NY","101 W 57th St, New York, NY 10019, USA",40.7646408,-73.9772407
+The Uptown Garrison,American (New),"Washington Heights, New York, NY","821 W 181st St, New York, NY 10033, USA",40.851348,-73.939392
+La Sirene,French,"Soho, New York, NY","558 Broome St, New York, NY 10013, USA",40.7245388,-74.0057075
+Gallaghers Steakhouse,Steakhouse,"Times Square/Theatre District, New York, NY","228 W 52nd St, New York, NY 10019, USA",40.7628299,-73.9838826
+Stout NYC Penn Station,American (Traditional),"Herald Square, New York, NY","215 W 35th St, New York, NY 10001, USA",40.751876,-73.99108500000000
+Copinette,American (New),"Midtown East, New York, NY","891 1st Ave, New York, NY 10022, USA",40.7541516,-73.96626170000000
+La Pecora Bianca Midtown,Italian,"Midtown East, New York, NY","950 2nd Ave, New York, NY 10022, USA",40.755001,-73.9682432
+Calle Dão - Bryant Park,Asian Fusion,"Midtown West, New York, NY","38 W 39th St, New York, NY 10018, USA",40.75216340000000,-73.9842196
+Planet Hollywood New York,American (New),"Times Square/Theatre District, New York, NY","136 W 42nd St, New York, NY 10036, USA",40.7553294,-73.9857901
+Kru,Thai,"Greenpoint, New York, NY","190 N 14th St, Brooklyn, NY 11249, USA",40.7228016,-73.9557975
+J’s On The Bay,American (New),"Rosebank, New York, NY","1189 Bay St, Staten Island, NY 10305, USA",40.6143729,-74.0661089
+The Flatiron Room - Murray Hill,American (New),"Murray Hill, New York, NY","9 E 37th St, New York, NY 10016, USA",40.7501775,-73.98215940000000
+Fushimi - Times Square,Japanese / Sushi,"Hells Kitchen, New York, NY","311 W 43rd St, New York, NY 10036, USA",40.7584564,-73.9900329
+Temple Court,American (New),"Lower Manhattan, New York, NY","5 Beekman St, New York, NY 10038, USA",40.7112585,-74.0066214
+Celeste,Italian,"Upper West Side, New York, NY","502 Amsterdam Ave, New York, NY 10024, USA",40.7866992,-73.9760929
+Clara,American (New),"Upper West Side, New York, NY","170 Central Prk W, New York, NY 10024, USA",40.7792476,-73.9742792
+The Bronx Beer Hall,Pizza,"Belmont, New York, NY","2344 Arthur Ave, Bronx, NY 10458, USA",40.8541746,-73.8881983
+Victor's Cafe,Cuban,"Times Square/Theatre District, New York, NY","236 W 52nd St, New York, NY 10019, USA",40.7628851,-73.9841351
+Osteria by Primo,Italian,"Todt Hill, New York, NY","1282 Richmond Rd, Staten Island, NY 10304, USA",40.5961236,-74.0949433
+House of the Red Pearl,Chinese,"The Seaport, New York, NY","96 South St, New York, NY 10038, USA",40.70619500000000,-74.00226910000000
+Philippe by Philippe Chow Downtown,Chinese,"Chelsea, New York, NY","355 W 16th St, New York, NY 10011, USA",40.7423311,-74.00347910000000
+San Carlo,Italian,"Soho, New York, NY","90 Thompson St, New York, NY 10012, USA",40.725135,-74.00208700000000
+Stella 34 Trattoria,Italian,"Herald Square, New York, NY","151 W 34th St., New York, NY 10001, USA",40.7508631,-73.98906340000000
+Alice,Italian,"West Village, New York, NY","126 W 13th St, New York, NY 10011, USA",40.7370176,-73.9986949
+Archer & Goat,American (New),"Harlem, New York, NY","187 Malcolm X Blvd, New York, NY 10026, USA",40.80435020000000,-73.9484157
+Rivercrest,American (New),"Astoria, New York, NY","33-15 Ditmars Blvd, Astoria, NY 11105, USA",40.7751809,-73.9089997
+Grotta Azzurra,Italian,"Little Italy, New York, NY","177 Mulberry St, New York, NY 10013, USA",40.7203092,-73.99702430000000
+Suprema Provisions,Italian,"West Village, New York, NY","305 Bleecker St, New York, NY 10014, USA",40.7326906,-74.0036439
+Tamarind Tribeca,Indian,"Tribeca, New York, NY","99 Hudson St, New York, NY 10013, USA",40.7190883,-74.00891290000000
+Henry's End,American (New),"Brooklyn Heights, New York, NY","72 Henry St, Brooklyn, NY 11201, USA",40.6987184,-73.99263070000000
+Amity Hall Uptown,American (New),"Upper West Side, New York, NY","982 Amsterdam Ave, New York, NY 10025, USA",40.8022031,-73.9647008
+Lafayette,French,"Noho, New York, NY","380 Lafayette St, New York, NY 10003, USA",40.7277113,-73.99363150000000
+Tommy Bahama Restaurant–Bar–Store,American (New),"Midtown East, New York, NY","551 5th Ave Suite 101, New York, NY 10176, USA",40.7555234,-73.9791968
+Atlantis Prime,Steakhouse,"Herald Square, New York, NY","38 W 36th St., New York, NY 10018, USA",40.7502737,-73.9854762
+Carne Mare,Steakhouse,"The Seaport, New York, NY","89 South St, New York, NY 10038, USA",40.7056435,-74.0016663
+Mamo,Italian,"Soho, New York, NY","323 W Broadway, New York, NY 10013, USA",40.7218737,-74.00383820000000
+Serra,Italian,"Flatiron District, New York, NY","200 5th Ave, New York, NY 10010, USA",40.7419668,-73.9895296
+Gabriel's Bar & Restaurant,Italian,"Midtown West, New York, NY","40 Central Park S, New York, NY 10019, USA",40.7650765,-73.975516
+Grand Brasserie,French,"Midtown East, New York, NY","89 E 42nd St Vanderbilt Hall, New York, NY 10017, USA",40.7526966,-73.97784910000000
+Da Andrea - Greenwich Village,Italian,"Greenwich Village, New York, NY","35 W 13th St, New York, NY 10011, USA",40.7362477,-73.9958123
+The Ivy Room,American (New),"Nomad, New York, NY","420 Park Ave S P2, New York, NY 10016, USA",40.7439194,-73.9841967
+A La Turka,Turkish,"Upper East Side, New York, NY","1417 2nd Ave, New York, NY 10021, USA",40.7701243,-73.9577261
+The Otter,Seafood,"Soho, New York, NY","58 Thompson St, New York, NY 10012, USA",40.723944,-74.0033097
+Tonchin Brooklyn,Japanese / Sushi,"Williamsburg, New York, NY","109 N 3rd St, Brooklyn, NY 11249, USA",40.7167624,-73.9616996
+Union Square Cafe,American (New),"Gramercy, New York, NY","101 E 19th St, New York, NY 10003, USA",40.7377702,-73.9878767
+Chelsea Ristorante,Italian,"Chelsea, New York, NY","108 8th Ave, New York, NY 10011, USA",40.7406515,-74.0015913
+Arte Cafe,Italian,"Upper West Side, New York, NY","106 W 73rd St, New York, NY 10023, USA",40.7781026,-73.9788477
+STK Midtown,Steakhouse,"Midtown West, New York, NY","1114 6th Ave, New York, NY 10036, USA",40.75488200000000,-73.9826021
+The Queensboro,American (Traditional),"Jackson Heights, New York, NY","80-02 Northern Blvd, Jackson Heights, NY 11372, USA",40.755152,-73.8869912
+French Louie,French,"Boerum Hill, New York, NY","320 Atlantic Ave, Brooklyn, NY 11201, USA",40.6880066,-73.98821770000000
+Molyvos,Greek,"Hells Kitchen, New York, NY","402 West 43rd Street New York (Btwn 9th &, 10th Ave, New York, NY 10036, USA",40.7592716,-73.99275510000000
+The Noortwyck,American (New),"West Village, New York, NY","289 Bleecker St, New York, NY 10014, USA",40.7321832,-74.0033181
+Dos Caminos Lexington,Mexican,"Midtown East, New York, NY","480 Lexington Ave, New York, NY 10167, USA",40.754543,-73.97416870000000
+Del Frisco's Grille - Brookfield Place,Steakhouse,"Battery Park City, New York, NY","250 Vesey St, New York, NY 10281, USA",40.7134456,-74.0151854
+Dowling’s at The Carlyle,American (Traditional),"Upper East Side, New York, NY","35 E 76th St, New York, NY 10021, USA",40.7744489,-73.9630744
+The Bar Room at The Modern,American (New),"Midtown West, New York, NY","9 W 53rd St, New York, NY 10019, USA",40.7611122,-73.9767127
+Naro,Korean,"Midtown West, New York, NY","Rink Level CO, 610 5th Ave #04, New York, NY 10020, USA",40.7583251,-73.9780787
+Le District Bar & Bistro,French,"Battery Park City, New York, NY","225 Liberty St, New York, NY 10281, USA",40.711535,-74.01525200000000
+Masaaki,Japanese / Sushi,"Bayside, New York, NY","214-16 41st Ave, Bayside, NY 11361, USA",40.7635589,-73.77023680000000
+Cafe Zaffri,Middle Eastern,"Union Square, New York, NY","16 E 16th St, New York, NY 10003, USA",40.7357722,-73.9889383
+Blvd Bistro,Soul Food / Southern,"Harlem, New York, NY","2149 Frederick Douglass Blvd, New York, NY 10026, USA",40.8043549,-73.95577570000000
+Zou Zou's,Mediterranean,"Hudson Yards, New York, NY","385 9th Ave Suite 85, New York, NY 10001, USA",40.7522251,-73.9981157
+Peggy's,Eclectic,"Midtown East, New York, NY","1043 2nd Ave, New York, NY 10022, USA",40.7579643,-73.96660830000000
+Fogo de Chão Brazilian Steakhouse - World Trade Center,Brazilian,"Lower Manhattan, New York, NY","40 Cortlandt Wy Tower 3, Space 1340, New York, NY 10007, USA",40.7107626,-74.01181350000000
+Telio,Greek,"Upper West Side, New York, NY","2672 Broadway, New York, NY 10025, USA",40.7982096,-73.9688654
+Noodle Bar - Uptown,Asian Fusion,"Midtown West, New York, NY","10 Columbus Cir, New York, NY 10019, USA",40.7685526,-73.9831866
+Allora Fifth Ave,Italian,"Nomad, New York, NY","292 5th Ave, New York, NY 10001, USA",40.7463935,-73.9864578
+La Pecora Bianca Upper East Side,Italian,"Upper East Side, New York, NY","1562 2nd Ave, New York, NY 10028, USA",40.7746825,-73.95386860000000
+Il Mulino New York | Madison,Italian,"Midtown East, New York, NY","58 E 56th St, New York, NY 10022, USA",40.7612168,-73.9724411
+Paris Bar,French,"Midtown West, New York, NY","120 W 57th St, New York, NY 10019, USA",40.7645242,-73.97845750000000
+BKK New York,Thai,"Midtown West, New York, NY","238 W 56th St, New York, NY 10019, USA",40.7656694,-73.9829226
+Dhamaka,Indian,"Lower East Side, New York, NY","119 Delancey St, New York, NY 10002, USA",40.7180658,-73.9881304
+Anassa Taverna - Astoria,Greek,"Astoria, New York, NY","28-10 Astoria Blvd, Astoria, NY 11102, USA",40.7705679,-73.9206612
+ilili - Midtown,Mediterranean,"Midtown East, New York, NY","157 E 53rd St, New York, NY 10022, USA",40.7580782,-73.9700009
+Le Tout Va Bien,French,"Hells Kitchen, New York, NY","311 W 51st St, New York, NY 10019, USA",40.7635398,-73.9861188
+Crazy Pizza,Italian,"Soho, New York, NY","218 Lafayette St, New York, NY 10012, USA",40.7220042,-73.99779770000000
+Murano Ristorante,Italian,"Midtown East, New York, NY","120 E 56th St, New York, NY 10022, USA",40.7604629,-73.97063470000000
+Amélie - Upper West Side,French,"Upper West Side, New York, NY","566 Amsterdam Ave, New York, NY 10024, USA",40.7887508,-73.9746244
+Izakaya Futago,Japanese / Sushi,"Midtown East, New York, NY","211 E 43rd St, New York, NY 10017, USA",40.7512148,-73.9731396
+Cha Cha Tang,Chinese,"West Village, New York, NY","257 6th Ave, New York, NY 10014, USA",40.7290259,-74.00280700000000
+Brasserie Cognac - Midtown East,French,"Midtown East, New York, NY","517 Lexington Ave, New York, NY 10017, USA",40.7553,-73.9728788
+Ponty Bistro,French,"Harlem, New York, NY","2375 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",40.8175945,-73.94153830000000
+Wan Waan,Thai,"Chelsea, New York, NY","200 8th Ave, New York, NY 10011, USA",40.7434814,-73.9995027
+Smith & Mills - Rockefeller Center,American (New),"Midtown West, New York, NY","Rink Level, 30 Rockefeller Plaza, New York, NY 10112, USA",40.7593755,-73.9799726
+Levant on Smith,French,"Carroll Gardens, New York, NY","223 Smith St, Brooklyn, NY 11201, USA",40.6842168,-73.9919312
+Docks Off 5th,Seafood,"Midtown West, New York, NY","25 W 51st St #6939, New York, NY 10019, USA",40.7599981,-73.9781592
+Romeo's Italian Restaurant,Italian,"Jackson Heights, New York, NY","74-27 37th Ave, Jackson Heights, NY 11372, USA",40.749183,-73.8910294
+Renaissance Harlem,American (New),"Harlem, New York, NY","2245 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",40.8133579,-73.94473050000000
+La Pecora Bianca Bryant Park,Italian,"Midtown West, New York, NY","20 W 40th St, New York, NY 10018, USA",40.7525176,-73.9831529
+Burrito Bar,Mexican,"West Brighton, New York, NY","585 Forest Ave, Staten Island, NY 10310, USA",40.6303627,-74.1088297
+Red Room Bar,French,"Lower Manhattan, New York, NY","1 Wall St, New York, NY 10005, USA",40.7073963,-74.0118341
+Motek,Mediterranean,"Flatiron District, New York, NY","928 Broadway, New York, NY 10010, USA",40.7399349,-73.9895399
+Markette,Caribbean,"Chelsea, New York, NY","326 7th Ave, New York, NY 10001, USA",40.7475892,-73.9934928
+Arthur & Sons - Murray Hill,Italian,"Murray Hill, New York, NY","145 E 39th St, New York, NY 10016, USA",40.7493602,-73.9765358
+Tinos,Greek,"Upper East Side, New York, NY","1748 1st Ave, New York, NY 10128, USA",40.7796558,-73.9469671
+UNGLO Thai Restaurant & Bar,Thai,"Upper West Side, New York, NY","35 W 64th St, New York, NY 10023, USA",40.7720044,-73.9811058
+Pepolino,Italian,"Tribeca, New York, NY","281 W Broadway, New York, NY 10013, USA",40.72076210000000,-74.0048877
+Casa Louie,Italian,"Hudson Yards, New York, NY","455 W 37th St, New York, NY 10018, USA",40.7565507,-73.9970518
+Barlume,Mediterranean,"Flatiron District, New York, NY","900 Broadway, New York, NY 10003, USA",40.73885750000000,-73.9895466
+Saggio,Italian,"Washington Heights, New York, NY","827 W 181st St, New York, NY 10033, USA",40.85141900000000,-73.93951540000000
+Mama Mezze,Mediterranean,"Nomad, New York, NY","1123 Broadway, New York, NY 10010, USA",40.7433949,-73.9894419
+Don Cheech,Italian,"Rosebank, New York, NY","1271 Bay St, Staten Island, NY 10305, USA",40.6125112,-74.06474880000000
+Ralph's Sports Bar,American (New),"Dongan Hills, New York, NY","1571 Richmond Rd, Staten Island, NY 10304, USA",40.5912423,-74.1012703
+Eataly NYC SoHo,Italian,"Soho, New York, NY","200 Lafayette St, New York, NY 10012, USA",40.7213773,-73.9983436
+Pico De Gallo Bar & Kitchen,Mexican,"Upper West Side, New York, NY","768 Amsterdam Ave, New York, NY 10025, USA",40.7951789,-73.9698463
+Drai's Supper Club,French,"West Village, New York, NY","244 W 14th St, New York, NY 10011, USA",40.739237,-74.00194120000000
+Aquarelle,Seafood,"East Village, New York, NY","47 Avenue B, New York, NY 10009, USA",40.7229625,-73.98251020000000
+City Vineyard,American (New),"Tribeca, New York, NY","233 West St, New York, NY 10013, USA",40.7213003,-74.01287120000000
+Rosie O'Grady's,American (Traditional),"Times Square/Theatre District, New York, NY","148 W 51st St, New York, NY 10019, USA",40.7613288,-73.98220880000000
+Bar Bianchi,Italian,"East Village, New York, NY","5 Avenue A, New York, NY 10009, USA",40.7225634,-73.9864693
+Naxos,Greek,"Williamsburg, New York, NY","470 Driggs Ave, Brooklyn, NY 11211, USA",40.719007,-73.9547011
+El Bistró Tropical,Colombian,"Nomad, New York, NY","1227 Broadway Located inside the iconic Virgin Hotels, on the 4th floor, New York, NY 10001, USA",40.7466063,-73.98879100000000
+SaiTong Thai,Thai,"Times Square/Theatre District, New York, NY","244 W 48th St, New York, NY 10036, USA",40.7606777,-73.9865615
+Pylos,Greek,"East Village, New York, NY","128 E 7th St, New York, NY 10009, USA",40.7260604,-73.9841737
+8282,Korean,"Lower East Side, New York, NY","84 Stanton St, New York, NY 10002, USA",40.7216708,-73.9887463
+Le Monde,French,"Morningside Heights, New York, NY","2885 Broadway, New York, NY 10025, USA",40.8058863,-73.9658847
+Fogo de Chão Brazilian Steakhouse - Brooklyn,Brazilian,"Downtown Brooklyn, New York, NY","445 Albee Square W, Brooklyn, NY 11201, USA",40.6907135,-73.983204
+Bleu Fin,Seafood,"Bushwick, New York, NY","1487 Broadway, Brooklyn, NY 11221, USA",40.6874039,-73.918055
+Stretch Pizza - Park Ave,Pizza,"Flatiron District, New York, NY","331 Park Ave S, New York, NY 10010, USA",40.7410114,-73.98555740000000
+Sea by Jungsik,Thai,"Chelsea, New York, NY","151 W 30th St, New York, NY 10001, USA",40.7483603,-73.99186740000000
+Reverie,Vegan,"New York, NY","135 Metropolitan Ave, Brooklyn, NY 11249, USA",40.71633660000000,-73.9621928
+Anassa Taverna - Downtown,Greek,"Battery Park City, New York, NY","104 N End Ave, New York, NY 10282, USA",40.7148544,-74.0144968
+La Pecora Bianca SoHo,Italian,"Soho, New York, NY","54 Prince St, New York, NY 10012, USA",40.723489,-73.9963116
+Quality Italian,Italian,"Midtown West, New York, NY","57 W 57th St, New York, NY 10019, USA",40.7644381,-73.9766479
+Code Red Restaurant & Lounge,Caribbean,"Laconia, New York, NY","1320 E Gun Hill Rd, Bronx, NY 10469, USA",40.8711902,-73.84811360000000
+Gitano NYC,Mexican,"The Seaport, New York, NY","89 South St, New York, NY 10038, USA",40.7056435,-74.0016663
+American Brass,American (New),"Long Island City, New York, NY","2-01 50th Ave, Long Island City, NY 11101, USA",40.7439708,-73.95849300000000
+Pascalou,French,"Upper East Side, New York, NY","1308 Madison Ave, New York, NY 10128, USA",40.7851222,-73.9558722
+Leon’s,Italian,"Greenwich Village, New York, NY","817 Broadway, New York, NY 10003, USA",40.7331293,-73.9913302
+Barrio BX,Puerto Rican,"Unionport, New York, NY","1247 Castle Hill Ave, Bronx, NY 10462, USA",40.8330953,-73.8516697
+Cathédrale,French,"East Village, New York, NY","112 E 11th St, New York, NY 10003, USA",40.73150590000000,-73.9895444
+F&J Pine,Italian,"Morris Park, New York, NY","1913 Bronxdale Ave, Bronx, NY 10462, USA",40.8487297,-73.8622596
+Mito - Fort Greene,Japanese / Sushi,"Fort Greene, New York, NY","280 Ashland Pl, Brooklyn, NY 11217, USA",40.6870406,-73.9785036
+Poppy,American (New),"East Village, New York, NY","505 E 12th St, New York, NY 10009, USA",40.7290594,-73.9809167
+Surfish Bistro,Peruvian,"Gowanus, New York, NY","550 3rd Ave, Brooklyn, NY 11215, USA",40.66863440000000,-73.99365450000000
+Sistina,Italian,"Upper East Side, New York, NY","24 E 81st St, New York, NY 10028, USA",40.7775913,-73.9616751
+Yefsi Estiatorio,Greek,"Upper East Side, New York, NY","1481 York Ave, New York, NY 10075, USA",40.7710462,-73.9510258
+Mykonian House,Greek,"Upper East Side, New York, NY","25 E 83rd St, New York, NY 10028, USA",40.7791699,-73.9602975
+Aqua Roma,Italian,"Flatiron District, New York, NY","902 Broadway, New York, NY 10010, USA",40.7394362,-73.9895524
+ABC Kitchens DUMBO,American (New),"Dumbo, New York, NY","55 Water St, Brooklyn, NY 11201, USA",40.7033616,-73.99138290000000
+Smyth Tavern,American (Traditional),"Tribeca, New York, NY","85 W Broadway, New York, NY 10007, USA",40.71533900000000,-74.009177
+Benihana,Japanese / Sushi,"Midtown West, New York, NY","47 W 56th St, New York, NY 10019, USA",40.7634413,-73.9767248
+Saigon Social,Vietnamese,"Lower East Side, New York, NY","172 Orchard St, New York, NY 10002, USA",40.7214626,-73.9882485
+Little Fino,Italian,"Williamsburg, New York, NY","111 N 12th St, Brooklyn, NY 11249, USA",40.7228468,-73.9578689
+La Tête d’Or,Steakhouse,"Flatiron District, New York, NY","318 Park Ave S, New York, NY 10010, USA",40.7406632,-73.9863353
+Ishq,Indian,"East Village, New York, NY","202 Avenue A Frnt A, New York, NY 10009, USA",40.7293646,-73.98086620000000
+Caravaggio,Italian,"Upper East Side, New York, NY","23 E 74th St, New York, NY 10021, USA",40.7733964,-73.9647449
+iNine Bistro,Eclectic,"Mott Haven, New York, NY","53 Bruckner Blvd, Bronx, NY 10454, USA",40.8067625,-73.9266885
+Quality Meats,Steakhouse,"Midtown West, New York, NY","57 W 58th St, New York, NY 10019, USA",40.7649855,-73.97632450000000
+Bar Chuzo,Latin American,"Bay Ridge, New York, NY","9324 3rd Ave, Brooklyn, NY 11209, USA",40.618124,-74.0335037
+Amélie - West Village,French,"Greenwich Village, New York, NY","22 W 8th St, New York, NY 10011, USA",40.7326534,-73.99767850000000
+Liman Restaurant,Mediterranean,"Coney Island, New York, NY","825 Surf Ave 2nd Floor, Brooklyn, NY 11224, USA",40.5755665,-73.9773292
+Catch n' Chop,Steakhouse,"Upper East Side, New York, NY","1600 3rd Ave, New York, NY 10128, USA",40.7813704,-73.9524453
+Fogo de Chão Brazilian Steakhouse - Elmhurst,Brazilian,"Elmhurst, New York, NY","92-50 59th Ave, Elmhurst, NY 11373, USA",40.7344085,-73.8674693
+Amaranth,Mediterranean,"Upper East Side, New York, NY","21 E 62nd St GROUND FLOOR, New York, NY 10065, USA",40.7657854,-73.9703126
+Masalawala & Sons,Indian,"Park Slope, New York, NY","365 5th Ave, Brooklyn, NY 11215, USA",40.6712529,-73.98428280000000
+Jasmine's Caribbean Cuisine,Caribbean,"Times Square/Theatre District, New York, NY","371 W 46th St, New York, NY 10036, USA",40.7609624,-73.9902686
+Sojourn Social,American (New),"Upper East Side, New York, NY","1708 2nd Ave, New York, NY 10128, USA",40.7794134,-73.95026590000000
+Maison Passerelle,French,"Lower Manhattan, New York, NY","1 Wall St, New York, NY 10005, USA",40.7073963,-74.0118341
+Fresco by Scotto,Italian,"Midtown East, New York, NY","34 E 52nd St, New York, NY 10022, USA",40.7588164,-73.9745136
+PB Brasserie Steak House,French,"Harlem, New York, NY","Pb brasserie steak house, 60 W 125th St, New York, NY 10027, USA",40.8071744,-73.9444886
+Bar Mercer,Gastropub,"Soho, New York, NY","25 W Houston St, New York, NY 10012, USA",40.7256997,-73.9979978
+The Mermaid Inn - Upper West Side,Seafood,"Upper West Side, New York, NY","335 Columbus Ave, New York, NY 10023, USA",40.7798699,-73.9768058
+Korali Estiatorio,Greek,"Upper East Side, New York, NY","1662 3rd Ave, New York, NY 10128, USA",40.783492,-73.950977
+Rialto Ristorante,Italian,"Astoria, New York, NY","28-11 Astoria Blvd, Astoria, NY 11102, USA",40.7708378,-73.9203251
+Boni & Mott,Mediterranean,"Nolita, New York, NY","238 Mott St, New York, NY 10012, USA",40.7226793,-73.99493820000000
+La Pecora Bianca Upper West Side,Italian,"Upper West Side, New York, NY","359 Columbus Ave, New York, NY 10024, USA",40.7804753,-73.9763467
+Margaux by La Sirène,French,"Murray Hill, New York, NY","238 Madison Ave, New York, NY 10016, USA",40.7499446,-73.9817461
