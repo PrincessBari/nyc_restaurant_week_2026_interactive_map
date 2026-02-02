@@ -17,17 +17,20 @@ to navigate back to whatever page you’d been on last to retrieve more restaura
 
 There were also timeout issues since information loads dynamically via lazy scrolling.
 
-Because it was too circuitous, finally, I decided to just have Selenium scrape the restaurant name, cuisine type, and neighborhood from the 12 cards on each
-of the main 55 pages - instead of clicking into anything - and compile everything into a csv file.
+1) Because it was too circuitous, finally, I decided to just have Selenium scrape the restaurant name, cuisine type, and neighborhood from the 12 cards on each
+of the main 55 pages - instead of clicking into anything - via the file **scrape_restaurants_cards_only.py**, which produced the csv file **nyc_restaurant_week.csv**.
 
-After that, I appended each entry in the “Neighborhood” column with “, New York, NY”, so that it’d say “Brooklyn Heights, New York, NY”, “Soho, New York, NY”,
-etc. Then, I used the Google Places API to append my csv file with the actual addresses of the restaurants.
+2) Then, I appended each entry in the “Neighborhood” column with “, New York, NY”, so that it’d say “Brooklyn Heights, New York, NY”, “Soho, New York, NY”,
+etc, via the **append_neighborhoods.py** file resulting in the csv file **nyc_restaurants_nyc.csv**.
 
-Then, I used the Google Geocoding API to convert the addresses into latitude and longitude and appended my csv file with those new columns.
+3) Then, I used the Google Places API to append my csv file with the actual addresses of the restaurants via the file **places.py**, resulting in the file **restaurants_with_addresses.csv**.
 
-Also, I noticed that 3 restaurants had neighborhood info for Cuisine because on the website, that’s what data had been inserted into that html section. So I did
-have to manually enter the info for those 3.
+4) Then, I used the Google Geocoding API to convert the addresses into latitude and longitude and appended my csv file with those new columns via the file geocoding_google_api.py, which produced the csv file **restaurants_geocoded.csv**.
 
-Finally, I created a map using Folium, featuring a filter option by cuisine type, a search bar for restaurant names, and hover tooltip functionality showing each
-restaurant’s name, cuisine type, and address. The code produces an html file that you can open in your browser. Please enjoy my interactive site at
+(Also, I noticed that 3 restaurants had neighborhood info for Cuisine because on the website, that’s what data had been inserted into that html section. So I did
+have to manually enter the info for those 3.)
+
+5) Finally, I created a map using Folium via the file swipeable_filter_at_bottom.py. It features a filter option by cuisine type, a search bar for restaurant names, and hover tooltip functionality showing each restaurant’s name, cuisine type, and address. On mobile, the filter appears on the bottom half of the page and can be minimized by swiping down on the drag handle.
+
+Please enjoy my interactive site on either desktop or mobile at
 https://princessbari.github.io/nyc_restaurant_week_2026_interactive_map/.
