@@ -19,6 +19,8 @@ to navigate back to whatever page you’d been on last to retrieve more restaura
 
 There were also timeout issues since information loads dynamically via lazy scrolling.
 
+PROCESS:
+
 1) Because it was too circuitous, finally, I decided to just have Selenium scrape the restaurant name, cuisine type, and neighborhood from the 12 cards on each
 of the main 55 pages - instead of clicking into anything - via the file **scrape_restaurants_cards_only.py**, which produced the csv file **nyc_restaurant_week.csv**.
 
