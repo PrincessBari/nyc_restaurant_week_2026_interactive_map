@@ -1,3 +1,5 @@
+CREATING A MAP USING FOLIUM:
+
 NYC Restaurant Week occurs twice a year, once in winter and again in late summer. For this year’s winter 2026 session from Jan. 20th-Feb. 12th,
 I noticed that their website, https://www.nyctourism.com/restaurant-week/, lists the 653 participating restaurants across 55 pages with filtering
 options, but that there’s no map available.
